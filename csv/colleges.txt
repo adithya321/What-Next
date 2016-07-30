@@ -1,0 +1,951 @@
+_id, Name, District, Category, University, Institution Type, College Type
+1, Alagappa Govt. Arts College, Sivagangai, Arts & Science, Alagappa University, Government, Co-Education
+2, Alagappa University College of Education, Sivagangai, , Alagappa University,
+3, Ananda College, Sivagangai, , Alagappa University,
+4, Arumugam Pillai Seethai Ammal College, Sivagangai, , Alagappa University,
+5, Caussanel College of Arts and Science, Ramnad, , Alagappa University,
+6, Dr. Umayal Ramanathan College for Women, Sivagangai, , Alagappa University,
+7, Dr. Zakir Hussain College, Sivagangai, , Alagappa University,
+8, Ganapathi Seethai Ammal College, Sivagangai, , Alagappa University,
+9, Govt. Arts College, Ramnad, , Alagappa University,
+10, Govt. Arts College for Women, Ramnad, , Alagappa University,
+11, Govt. College for Women, Sivagangai, , Alagappa University,
+12, Idhaya Women's College, Sivagangai, , Alagappa University,
+13, Madurai Sivakasi Nadars College for Women, Sivagangai, , Alagappa University,
+14, Matha College of Arts and Sciences, Sivagangai, , Alagappa University,
+15, Pasumpon Thiru. Muthuramalinga Thevar College, Ramnad, , Alagappa University,
+16, Raja Duraisingam Govt. Arts College, Sivagangai, , Alagappa University,
+17, Ramasamy Tamil College, Sivagangai, , Alagappa University,
+18, Seethalakshmi Achi College for Women, Sivagangai, , Alagappa University,
+19, Sethupathy Govt. Arts College, Ramnad, , Alagappa University,
+20, Sonai Meenal Arts and Science College, Ramnad, , Alagappa University,
+21, Sree Sevugan Annamalai College, Sivagangai, , Alagappa University,
+22, Sri Saradha Niketan College for Women, Sivagangai, , Alagappa University,
+23, Syed Hammeda Arts and Science College, Ramnad, , Alagappa University,
+24, Thassim Beevi Abdul Kadar College for Women, Ramnad, , Alagappa University,
+25, V.S. Sivalingam Govt. Arts College, Sivagangai, , Alagappa University,
+26, A.C.T. College of Engineering and Technology, Kanchipuram, , Anna University - Chennai,
+27, A.K.T. Memorial College of Engineering and Technology, Villupuram, , Anna University - Chennai,
+28, A.R. College of Engineering and Technology, Tirunelveli, , Anna University - Chennai,
+29, A.R. Engineering College, Villupuram, , Anna University - Chennai,
+30, A.R.M. College of Engineering and Technology, Kanchipuram, , Anna University - Chennai,
+31, Aarupadai Veedu Institute of Technology, Chennai, , Anna University - Chennai,
+32, Adhi College of Engineering and Technology, Kanchipuram, , Anna University - Chennai,
+33, Adhiparasakthi College of Engineering, Vellore, , Anna University - Chennai,
+34, Adhiparasakthi Engineering College, Kanchipuram, , Anna University - Chennai,
+35, Agni College of Technology, Chennai, , Anna University - Chennai,
+36, Aishwarya College of Engineering and Technology, Erode, , Anna University - Chennai,
+37, Aksheyaa College of Engineering, Kanchipuram, , Anna University - Chennai,
+38, Alpha College of Engineering, Chennai, , Anna University - Chennai,
+39, Anand Institute of Higher Technology, Kanchipuram, , Anna University - Chennai,
+40, Annai Mira College Of Engineering And Technology, Vellore, , Anna University - Chennai,
+41, Annai Teresa College of Engineering, Villupuram, , Anna University - Chennai,
+42, Annai Velilankanni's College Of Engineering, Chennai, , Anna University - Chennai,
+43, Annamalaiar College of Engineering, Tiruvanamalai, , Anna University - Chennai,
+44, Apollo Engineering College, Kanchipuram, , Anna University - Chennai,
+45, Apollo Priyadarshanam Institute of Technology, Kanchipuram, , Anna University - Chennai,
+46, Arignar Anna Institute of Science and Technology, Kanchipuram, , Anna University - Chennai,
+47, Arul College of Technology, Tirunelveli, , Anna University - Chennai,
+48, Arulmigu Meenakshi Amman College of Engineering, Tiruvanamalai, , Anna University - Chennai,
+49, Arunai Engineering College, Tiruvanamalai, , Anna University - Chennai,
+50, Asan Memorial College of Engineering and Technology, Chennai, , Anna University - Chennai,
+51, B.K.R. College of Engineering and Technology, Tiruvallur, , Anna University - Chennai,
+52, Balaji Institute of Engineering and Technology, Chennai, , Anna University - Chennai,
+53, Balamani Arunachalam Educational & Charitable Trust's Group of Institution, Kanchipuram, , Anna University - Chennai,
+54, Bhajarang Engineering College, Tiruvallur, , Anna University - Chennai,
+55, Bharathidasan Engineering College, Vellore, , Anna University - Chennai,
+56, C. Abdul Hakeem College of Engineering and Technology, Vellore, , Anna University - Chennai,
+57, C.R. Engineering College, Madurai, , Anna University - Chennai,
+58, Central Institute of Plastic Engineering and Technology (CIPET), Chennai, , Anna University - Chennai,
+59, Chendu College of Engineering and Technology, Kanchipuram, , Anna University - Chennai,
+60, Chennai Institute of Technology, Chennai, , Anna University - Chennai,
+61, Coimbatore Aeronautical College, Coimbatore, , Anna University - Chennai,
+62, Coimbatore Marine College, Coimbatore, , Anna University - Chennai,
+63, D.M.I. College of Engineering, Tiruvallur, , Anna University - Chennai,
+64, Dhaanish Ahmed College of Engineering, Kanchipuram, , Anna University - Chennai,
+65, Dhanalakshmi College of Engineering, Chennai, , Anna University - Chennai,
+66, Dhanalakshmi Srinivasan College of Engineering and Technology, Kanchipuram, , Anna University - Chennai,
+67, Dhirajlal Gandhi College of Technology, Salem, , Anna University - Chennai,
+68, Dr. Paul's Engineering College, Villupuram, , Anna University - Chennai,
+69, E.S. College of Engineering and Technology, Villupuram, , Anna University - Chennai,
+70, Easwari Engineering College, Chennai, , Anna University - Chennai,
+71, G.G.R. College of Engineering, Vellore, , Anna University - Chennai,
+72, G.K.M. College of Engineering and Technology, Chennai, , Anna University - Chennai,
+73, Ganadipathy Tulsi's Engineering College, Vellore, , Anna University - Chennai,
+74, Ganesh College of Engineering, Salem, , Anna University - Chennai,
+75, Global Institute of Engineering and Technology, Vellore, , Anna University - Chennai,
+76, Gojan School of Business and Technology, Chennai, , Anna University - Chennai,
+77, Gopal Ramalingam Memorial Engineering College, Chennai, , Anna University - Chennai,
+78, GRT Institute of Engineering and Technology, Tiruvallur, , Anna University - Chennai,
+79, I.F.E.T. College of Engineering, Villupuram, , Anna University - Chennai,
+80, Idhaya Engineering College for Women, Villupuram, , Anna University - Chennai,
+81, Indira Gandhi College of Engineering and Technology for Women, Kanchipuram, , Anna University - Chennai,
+82, Indira Institute of Engineering and Technology, Tiruvallur, , Anna University - Chennai,
+83, J.N.N. Institute of Engineering, Tiruvallur, , Anna University - Chennai,
+84, Jawahar Engineering College, Chennai, , Anna University - Chennai,
+85, Jaya Engineering College, Tiruvallur, , Anna University - Chennai,
+86, Jaya Suriya Engineering College, Tiruvallur, , Anna University - Chennai,
+87, JEI Mathaajee College of Engineering, Kanchipuram, , Anna University - Chennai,
+88, Jeppiaar Engineering College, Chennai, , Anna University - Chennai,
+89, Jeppiaar Institute of Technology, Kanchipuram, , Anna University - Chennai,
+90, Jerusalem College of Engineering, Chennai, , Anna University - Chennai,
+91, John Bosco Engineering College, Tiruvallur, , Anna University - Chennai,
+92, K S R Institute for Engineering and Technology, Namakkal, , Anna University - Chennai,
+93, K.C.G. College of Technology, Chennai, , Anna University - Chennai,
+94, K.L.N. College of Engineering, Sivagangai, , Anna University - Chennai,
+95, K.L.N. College of Information Technology, Sivagangai, , Anna University - Chennai,
+96, K.R.S. College of Engineering, Tiruvanamalai, , Anna University - Chennai,
+97, K.S. Rangasamy College of Technology, Namakkal, , Anna University - Chennai,
+98, K.S.K College of Engineering and Technology, Thanjavur, , Anna University - Chennai,
+99, K.S.R. College of Engineering, Namakkal, , Anna University - Chennai,
+100, Kalsar College of Engineering, Kanchipuram, , Anna University - Chennai,
+101, Kanchi Pallavan Engineering College, Kanchipuram, , Anna University - Chennai,
+102, Karaikudi Institute of Technology and Karaikudi Institute of Management, Sivagangai, , Anna University - Chennai,
+103, Kings Engineering College, Chennai, , Anna University - Chennai,
+104, Kingston Engineering College, Vellore, , Anna University - Chennai,
+105, Lakshmi Chand Rajani College of Engineering and Technology, Tiruvallur, , Anna University - Chennai,
+106, Lord Ayyappa Institute of Engineering and Technology, Kanchipuram, , Anna University - Chennai,
+107, Lord Venkateshwara Engineering College, Kanchipuram, , Anna University - Chennai,
+108, Loyola Institute of Technology, Chennai, , Anna University - Chennai,
+109, Loyola-ICAM College of Engineering and Technology, Chennai, , Anna University - Chennai,
+110, Maamallan Institute of Technology, Kanchipuram, , Anna University - Chennai,
+111, Madha Engineering College, Chennai, , Anna University - Chennai,
+112, Madha Institute of Engineering and Technology, Chennai, , Anna University - Chennai,
+113, Magna College of Engineering, Chennai, , Anna University - Chennai,
+114, Maha Bharathi Engineering College, Villupuram, , Anna University - Chennai,
+115, Mailam Engineering College, Villupuram, , Anna University - Chennai,
+116, Mar Ephraem College of Engineering and Technology, Kanyakumari, , Anna University - Chennai,
+117, Measi Academy of Architecture, Chennai, , Anna University - Chennai,
+118, Meenakshi College of Engineering, Chennai, , Anna University - Chennai,
+119, Meenakshi Ramaswamy Engineering College, Ariyalur, , Anna University - Chennai,
+120, Meenakshi Sundararajan Engineering College, Chennai, , Anna University - Chennai,
+121, MEPCO Schlenk Engineering College, Virudhunagar, , Anna University - Chennai,
+122, Misrimal Navajee Munoth Jain Engineering College, Chennai, , Anna University - Chennai,
+123, Mohamed Sathak A.J. College of Engineering, Chennai, , Anna University - Chennai,
+124, Mother Terasa College of Engineering and Technology, Pudukottai, , Anna University - Chennai,
+125, Muthayammal Technical Campus, Namakkal, , Anna University - Chennai,
+126, N.S.N. College of Engineering and Technology, Karur, , Anna University - Chennai,
+127, Nadar Saraswathi College of Engineering and Technology, Theni, , Anna University - Chennai,
+128, New Prince Shri Bhavani College of Engineering and Technology, Chennai, , Anna University - Chennai,
+129, OAS Institute of Technology and Management, Trichy, , Anna University - Chennai,
+130, Oxford College of Engineering, Tiruvanamalai, , Anna University - Chennai,
+131, P.B. College of Engineering, Kanchipuram, , Anna University - Chennai,
+132, P.M.R. Engineering College, Chennai, , Anna University - Chennai,
+133, P.T. Lee Chengalvaraya Naicker College of Engineering and Technology, Kanchipuram, , Anna University - Chennai,
+134, Pallava Raja College of Engineering, Kanchipuram, , Anna University - Chennai,
+135, Pallavan College of Engineering, Kanchipuram, , Anna University - Chennai,
+136, Panimalar Engineering College, Chennai, , Anna University - Chennai,
+137, Panimalar Institute of Technology, Chennai, , Anna University - Chennai,
+138, PERI Institute of Technology, Chennai, , Anna University - Chennai,
+139, Podhigai College of Engineering and Technology, Vellore, , Anna University - Chennai,
+140, Prathyusha Institute of Technology and Management, Tiruvallur, , Anna University - Chennai,
+141, Prince Dr. K. Vasudevan College of Engineering and Technology, Chennai, , Anna University - Chennai,
+142, Prince Shri Venkateshwara Padmavathy Engineering College, Chennai, , Anna University - Chennai,
+143, Priyadarshini Engineering College, Vellore, , Anna University - Chennai,
+144, R.M.K. College of Engineering and Technology, Tiruvallur, , Anna University - Chennai,
+145, R.V.S. Padhmavathy College of Engineering and Technology, Tiruvallur, , Anna University - Chennai,
+146, R.V.S. School of Architecture, Coimbatore, , Anna University - Chennai,
+147, Rajalakshmi Engineering College, Kanchipuram, , Anna University - Chennai,
+148, Rajalakshmi Institute of Technology, Tiruvallur, , Anna University - Chennai,
+149, Rajalakshmi Institute of Technology, Kanchipuram, , Anna University - Chennai,
+150, Rajiv Gandhi College of Engineering, Kanchipuram, , Anna University - Chennai,
+151, Ranippettai Engineering College, Vellore, , Anna University - Chennai,
+152, Renganayagi Varatharaj College of Engineering, Virudhunagar, , Anna University - Chennai,
+153, Rrase College of Engineering, Kanchipuram, , Anna University - Chennai,
+154, S.A. Engineering College, Chennai, , Anna University - Chennai,
+155, S.K.P. Engineering College, Tiruvanamalai, , Anna University - Chennai,
+156, S.K.P. Institute of Technology, Tiruvanamalai, , Anna University - Chennai,
+157, S.K.R. Engineering College, Chennai, , Anna University - Chennai,
+158, S.M.K. Fomra Institute of Technology, Chennai, , Anna University - Chennai,
+159, S.R.I. College of Engineering and Technology, Tiruvanamalai, , Anna University - Chennai,
+160, S.R.R. Engineering College, Kanchipuram, , Anna University - Chennai,
+161, SACS M.A.V.M.M. Engineering College, Madurai, , Anna University - Chennai,
+162, Sakthi Engineering College, Tiruvallur, , Anna University - Chennai,
+163, Sakthi Mariamman Engineering College, Chennai, , Anna University - Chennai,
+164, SAMS College of Engineering and Technology, Tiruvallur, , Anna University - Chennai,
+165, Saraswathi Velu College of Engineering, Vellore, , Anna University - Chennai,
+165, Saraswathy College of Engineering and Technology, Villupuram, , Anna University - Chennai,
+166, Saveetha Engineering College, Kanchipuram, , Anna University - Chennai,
+167, Shri Andal Alagar College of Engineering, Kanchipuram, , Anna University - Chennai,
+168, Shri Sapthagiri Institute of Technology, Vellore, , Anna University - Chennai,
+169, Siva Institute of Frontier Technology - Technical Campus, Tiruvallur, , Anna University - Chennai,
+170, Sivaji College of Engineering and Technology, Kanyakumari, , Anna University - Chennai,
+171, Sree Krishna College of Engineering, Vellore, , Anna University - Chennai,
+172, Sree Sastha College of Engineering, Tiruvallur, , Anna University - Chennai,
+173, Sri Aravindar Engineering College, Villupuram, , Anna University - Chennai,
+174, Sri Aravindar Engineering College, Villupuram, , Anna University - Chennai,
+175, Sri Balaji Chockalingam Engineering College, Tiruvanamalai, , Anna University - Chennai,
+176, Sri Jayaram Engineering College, Cuddalore, , Anna University - Chennai,
+177, Sri Kalaimagal College of Engineering, Tiruvallur, , Anna University - Chennai,
+178, Sri Krishna College of Engineering, Vellore, , Anna University - Chennai,
+179, Sri Krishna Engineering College, Chennai, , Anna University - Chennai,
+180, Sri Krishna Institute of Technology, Kanchipuram, , Anna University - Chennai,
+181, Sri Muthukumaran Institute of Technology, Chennai, , Anna University - Chennai,
+182, Sri Nandhanam College of Engineering and Technology, Vellore, , Anna University - Chennai,
+183, Sri Padmavathy College of Engineering, Kanchipuram, , Anna University - Chennai,
+184, Sri Ram Engineering College, Tiruvallur, , Anna University - Chennai,
+185, Sri Ramana Maharishi College of Engineering, Tiruvanamalai, , Anna University - Chennai,
+186, Sri Ramanujar Engineering College, Chennai, , Anna University - Chennai,
+187, Sri Ranganathar Institute of Engineering and Technology, Coimbatore, , Anna University - Chennai,
+188, Sri Rangapoopathi College of Engineering, Villupuram, , Anna University - Chennai,
+189, Sri Sai Ram Institute of Technology, Chennai, , Anna University - Chennai,
+190, Sri Shanmugha College of Engineering and Technology, Salem, , Anna University - Chennai,
+191, Sri Sivasubramaniya Nadar College of Engineering, Chennai, , Anna University - Chennai,
+192, Sri Venkateshwara Institute of Engineering, Krishnagiri, , Anna University - Chennai,
+193, Sri Venkateswara College of Engineering, Kanchipuram, , Anna University - Chennai,
+194, Sri Venkateswara College of Engineering and Technology, Tiruvallur, , Anna University - Chennai,
+195, Sri Venkateswara Institute of Science and Technology, Tiruvallur, , Anna University - Chennai,
+196, Sri Venkateswaraa College of Technology, Kanchipuram, , Anna University - Chennai,
+197, Srinivasa Institute of Engineering and Technology, Chennai, , Anna University - Chennai,
+198, SSM Institute of Engineering and Technology, Dindigul, , Anna University - Chennai,
+199, St. John's College of Engineering & Technology for Women, Vellore, , Anna University - Chennai,
+200, St. Joseph College of Engineering, Kanchipuram, , Anna University - Chennai,
+201, St. Joseph's College of Engineering, Kanchipuram, , Anna University - Chennai,
+202, St. Joseph's College of Engineering and Technology, Thanjavur, , Anna University - Chennai,
+203, St. Michael College of Engineering and Technology, Sivagangai, , Anna University - Chennai,
+204, St. Peter's College of Engineering and Technology, Chennai, , Anna University - Chennai,
+205, St. Peters Engineering College, Chennai, , Anna University - Chennai,
+206, St.Joseph's Institute of Technology, Kanchipuram, , Anna University - Chennai,
+207, Suguna College of Engineering, Coimbatore, , Anna University - Chennai,
+208, Surya College of Engineering and Technology, Villupuram, , Anna University - Chennai,
+209, Syed Ammal Engineering College, Ramnad, , Anna University - Chennai,
+210, T.J. Institute of Technology, Chennai, , Anna University - Chennai,
+211, T.J.S. Engineering College, Tiruvallur, , Anna University - Chennai,
+212, T.S.M. Jain College of Technology, Villupuram, , Anna University - Chennai,
+213, Tagore Engineering College, Chennai, , Anna University - Chennai,
+214, Thamirabharani Engineering College, Tirunelveli, , Anna University - Chennai,
+215, Thangavelu Engineering College, Chennai, , Anna University - Chennai,
+216, Thanthai Periyar Govt. Institute of Technology, Vellore, , Anna University - Chennai,
+217, The New Royal College of Engineering and Technology, Kanchipuram, , Anna University - Chennai,
+218, Thirumalai Engineering College, Kanchipuram, , Anna University - Chennai,
+219, Thiruvalluvar College of Engineering and Technology, Tiruvanamalai, , Anna University - Chennai,
+220, Universal College of Engineering and Technology, Tirunelveli, , Anna University - Chennai,
+221, University College of Engineering, Kanchipuram, , Anna University - Chennai,
+222, University College of Engineering, Tiruvanamalai, , Anna University - Chennai,
+223, University College of Engineering, Villupuram, , Anna University - Chennai,
+224, University College of Engineering, Villupuram, , Anna University - Chennai,
+225, University Departments of Anna University Chennai - ACT Campus, Chennai, , Anna University - Chennai,
+226, University Departments of Anna University Chennai - CEG Campus, Chennai, , Anna University - Chennai,
+227, University Departments of Anna University Chennai - MIT Campus, Chennai, , Anna University - Chennai,
+228, University Departments of Anna University Chennai - SAP Campus, Chennai, , Anna University - Chennai,
+229, V.I. Institute of Technology, Kanchipuram, , Anna University - Chennai,
+230, V.K.K. Vijayan Engineering College, Kanchipuram, , Anna University - Chennai,
+231, V.P.M.M. Engineering College for Women, Virudhunagar, , Anna University - Chennai,
+232, V.R.S. College of Engineering and Technology, Villupuram, , Anna University - Chennai,
+233, Valliammai Engineering College, Kanchipuram, , Anna University - Chennai,
+234, Varuvan Vadivelan Institute of Technology, Dharmapuri, , Anna University - Chennai,
+235, Vedhantha Institute Of Technology, Villupuram, , Anna University - Chennai,
+236, Vel Tech, Chennai, , Anna University - Chennai,
+237, Vel Tech High Tech Dr.Rangarajan Dr.Sakunthala Engineering College, Chennai, , Anna University - Chennai,
+238, Vel Tech Multi Tech Dr.Rangarajan Dr.Sakunthala Engineering College, Chennai, , Anna University - Chennai,
+239, Velammal Engineering College, Chennai, , Anna University - Chennai,
+240, Velammal Institute of Technology, Tiruvallur, , Anna University - Chennai,
+241, Vickram College of Engineering, Madurai, , Anna University - Chennai,
+242, Vidhya Mandhir Institute of Technology, Erode, , Anna University - Chennai,
+243, Vinayaka Mission's Kirupanada Variyar Engineering College, Salem, , Anna University - Chennai,
+244, VPV College of Engineering, Theni, , Anna University - Chennai,
+245, A.S.L. Pauls College of Engineering and Technology, Coimbatore, , Anna University - Coimbatore
+246, A.V.S. Engineering College, Salem, , Anna University - Coimbatore
+247, Adhiyamaan College of Engineering, Krishnagiri, , Anna University - Coimbatore
+248, Adithya Institute of Technology, Coimbatore, , Anna University - Coimbatore
+249, Akshaya College of Engineering & Technology, Coimbatore, , Anna University - Coimbatore
+250, Al-Ameen Engineering College, Erode, , Anna University - Coimbatore
+251, Angel College of Engineering and Technology, Tirupur, , Anna University - Coimbatore
+252, Annai Mathammal Sheela Engineering College, Namakkal, , Anna University - Coimbatore
+253, Annaporna Engineering College, Salem, , Anna University - Coimbatore
+254, Archana Institute of Technology, Krishnagiri, , Anna University - Coimbatore
+255, Bannari Amman Institute of Technology, Erode, , Anna University - Coimbatore
+256, Bharathiyar Institute of Engineering for Women, Salem, , Anna University - Coimbatore
+257, C.M.S. College of Engineering, Namakkal, , Anna University - Coimbatore
+258, C.M.S. College of Engineering, Coimbatore, , Anna University - Coimbatore
+259, C.S.I. Engineering College, Nilgiris, , Anna University - Coimbatore
+260, Chettinad College of Engineering and Technology, Karur, , Anna University - Coimbatore
+261, Christ The King Engineering College, Coimbatore, , Anna University - Coimbatore
+262, Coimbatore Institute of Engineering and Technology, Coimbatore, , Anna University - Coimbatore
+263, Coimbatore Institute of Technology, Coimbatore, , Anna University - Coimbatore
+264, Dr Mahalingam College of Engineering and Technology, Coimbatore, , Anna University - Coimbatore
+265, Dr. N.G.P. Institute of Technology, Coimbatore, , Anna University - Coimbatore
+266, Dr. Nagarathinam's College of Engineering, Namakkal, , Anna University - Coimbatore
+267, Dr. Nalini Institute of Engineering and Technology, Tirupur, , Anna University - Coimbatore
+268, Easa College of Engineering and Technology, Coimbatore, , Anna University - Coimbatore
+269, Er. Perumal Manimekalai College of Engineering, Krishnagiri, , Anna University - Coimbatore
+270, Erode Builder Educational Trust’s Group of Institutions, Tirupur, , Anna University - Coimbatore
+271, Erode Sengunthar Engineering College, Erode, , Anna University - Coimbatore
+272, Excel College of Architecture & Planning, Namakkal, , Anna University - Coimbatore
+273, Excel College of Engineering and Technology, Namakkal, , Anna University - Coimbatore
+274, Excel College of Technology, Namakkal, , Anna University - Coimbatore
+275, Excel Engineering College, Namakkal, , Anna University - Coimbatore
+276, Gnanamani College of Engineering, Namakkal, , Anna University - Coimbatore
+277, Gnanamani College of Technology, Namakkal, , Anna University - Coimbatore
+278, Government College of Engineering, Krishnagiri, , Anna University - Coimbatore
+279, Government College of Engineering, Salem, , Anna University - Coimbatore
+280, Government College of Technology, Coimbatore, , Anna University - Coimbatore
+281, Greentech College of Engineering for Women, Salem, , Anna University - Coimbatore
+282, Hindustan Institute of Technology, Coimbatore, , Anna University - Coimbatore
+283, Hindusthan College of Engineering and Technology, Coimbatore, , Anna University - Coimbatore
+284, Indus College of Engineering, Coimbatore, , Anna University - Coimbatore
+285, Info Institute of Engineering, Coimbatore, , Anna University - Coimbatore
+286, Institute of Road and Transport Technology, Erode, , Anna University - Coimbatore
+287, J.C.T. College of Engineering and Technology, Coimbatore, , Anna University - Coimbatore
+288, J.K.K. Muniraja College of Technology, Erode, , Anna University - Coimbatore
+289, J.K.K. Nataraja College of Engineering and Technology, Namakkal, , Anna University - Coimbatore
+290, Jai Sriram College of Technology, Tirupur, , Anna University - Coimbatore
+291, Jansons Institute of Engineering and Technology, Coimbatore, , Anna University - Coimbatore
+292, Jawaharlal Institute of Technology, Coimbatore, , Anna University - Coimbatore
+293, Jayalakshmi Institute of Technology, Dharmapuri, , Anna University - Coimbatore
+294, Jayam College of Engineering and Technology, Dharmapuri, , Anna University - Coimbatore
+295, K.G.I.S.L. Institute of Technology, Coimbatore, , Anna University - Coimbatore
+296, K.P.R. Institute of Engineering and Technology, Coimbatore, , Anna University - Coimbatore
+297, Kalaignar Karunanidhi Institute of Technology, Coimbatore, , Anna University - Coimbatore
+298, Kalaivani College of Technology, Coimbatore, , Anna University - Coimbatore
+299, Karpagam College of Engineering, Coimbatore, , Anna University - Coimbatore
+300, Karpagam Institute of Technology, Coimbatore, , Anna University - Coimbatore
+301, Karur College of Engineering, Karur, , Anna University - Coimbatore
+302, Kathir College of Engineering, Coimbatore, , Anna University - Coimbatore
+303, King College of Technology, Namakkal, , Anna University - Coimbatore
+304, Knowledge Institute of Technology, Salem, , Anna University - Coimbatore
+305, Kongu Engineering College, Erode, , Anna University - Coimbatore
+306, KTVR Knowledge Park for Engineering and Technology, Coimbatore, , Anna University - Coimbatore
+307, Kumaraguru College of Technology, Coimbatore, , Anna University - Coimbatore
+308, M. Kumarasamy College of Engineering, Karur, , Anna University - Coimbatore
+309, M.P.Nachimuthu M.Jaganathan Engineering College, Erode, , Anna University - Coimbatore
+310, Maha College of Engineering, Salem, , Anna University - Coimbatore
+311, Maharaja Engineering College, Coimbatore, , Anna University - Coimbatore
+312, Maharaja Engineering College for Women, Erode, , Anna University - Coimbatore
+313, Maharaja Institute of Technology, Coimbatore, , Anna University - Coimbatore
+314, Maharaja Prithvi Engineering College, Coimbatore, , Anna University - Coimbatore
+315, Mahendra Engineering College, Namakkal, , Anna University - Coimbatore
+316, Mahendra Engineering College for Women, Namakkal, , Anna University - Coimbatore
+317, Mahendra Institute of Engineering and Technology, Namakkal, , Anna University - Coimbatore
+318, Mahendra Institute of Technology, Namakkal, , Anna University - Coimbatore
+319, McGan's Ooty School of Architecture, Nilgiris, , Anna University - Coimbatore
+320, Muthayammal Engineering College, Namakkal, , Anna University - Coimbatore
+321, Nandha College of Technology, Erode, , Anna University - Coimbatore
+322, Nandha Engineering College, Erode, , Anna University - Coimbatore
+323, Narasu's Sarathy Institute of Technology, Salem, , Anna University - Coimbatore
+324, Nehru Institute of Engineering and Technology, Coimbatore, , Anna University - Coimbatore
+325, P.A. College of Engineering and Technology, Coimbatore, , Anna University - Coimbatore
+326, P.G.P. College of Engineering and Technology, Namakkal, , Anna University - Coimbatore
+327, P.P.G. Institute of Technology, Coimbatore, , Anna University - Coimbatore
+328, P.S.G. College of Technology, Coimbatore, , Anna University - Coimbatore
+329, P.S.V. College of Engineering and Technology, Krishnagiri, , Anna University - Coimbatore
+330, Paavaai Group of Institutions, Namakkal, , Anna University - Coimbatore
+331, Paavai College of Engineering, Namakkal, , Anna University - Coimbatore
+332, Paavai Engineering College, Namakkal, , Anna University - Coimbatore
+333, Park College of Engineering Technology, Coimbatore, , Anna University - Coimbatore
+334, Park College of Technology, Coimbatore, , Anna University - Coimbatore
+335, Pavai College of Technology, Namakkal, , Anna University - Coimbatore
+336, Professional Educational Trust's Group of Institutions, Tirupur, , Anna University - Coimbatore
+337, R.V.S. College Of Engineering and Technology, Coimbatore, , Anna University - Coimbatore
+338, R.V.S. College of Engineering and Technology (Faculty of Engineering), Coimbatore, , Anna University - Coimbatore
+339, R.V.S. Faculty of Engineering, Coimbatore, , Anna University - Coimbatore
+340, Rabidhranath Tagore College of Engineering for Women, Salem, , Anna University - Coimbatore
+341, Ranganathan Engineering College, Coimbatore, , Anna University - Coimbatore
+342, Rathinam Technical Campus, Coimbatore, , Anna University - Coimbatore
+343, S.N.S. College of Engineering, Coimbatore, , Anna University - Coimbatore
+344, S.N.S. College of Technology, Coimbatore, , Anna University - Coimbatore
+345, S.R.G. Engineering College, Namakkal, , Anna University - Coimbatore
+346, S.R.S. College of Engineering & Technology, Salem, , Anna University - Coimbatore
+347, S.S.K. College of Engineering and Technology, Coimbatore, , Anna University - Coimbatore
+348, S.V.S. College of Engineering, Coimbatore, , Anna University - Coimbatore
+349, Salem College of Engineering and Technology, Salem, , Anna University - Coimbatore
+350, Sapthagiri College of Engineering, Dharmapuri, , Anna University - Coimbatore
+351, Sasurie Academy of Engineering, Coimbatore, , Anna University - Coimbatore
+352, Sasurie College of Engineering, Erode, , Anna University - Coimbatore
+353, Selvam College of Technology, Namakkal, , Anna University - Coimbatore
+354, Sengunthar College of Engineering For Women, Namakkal, , Anna University - Coimbatore
+355, Sengunthar Engineering College, Namakkal, , Anna University - Coimbatore
+356, Shree Venkateshwara Hi-Tech Engineering College, Erode, , Anna University - Coimbatore
+357, Shreenivasa Engineering College, Dharmapuri, , Anna University - Coimbatore
+358, Sree Sakthi Engineering College, Coimbatore, , Anna University - Coimbatore
+359, Sri Eshwar College of Engineering, Coimbatore, , Anna University - Coimbatore
+360, Sri Krishna College of Engineering and Technology, Coimbatore, , Anna University - Coimbatore
+361, Sri Ramakrishna Engineering College, Coimbatore, , Anna University - Coimbatore
+362, Sri Ramakrishna Institute of Technology, Coimbatore, , Anna University - Coimbatore
+363, Sri Ramanathan Engineering College, Erode, , Anna University - Coimbatore
+364, Sri Shakthi Institute Of Engineering & Technology, Coimbatore, , Anna University - Coimbatore
+365, Sri Shakthi Institute of Engineering and Technology, Coimbatore, , Anna University - Coimbatore
+366, Sriguru Institute of Technology, Coimbatore, , Anna University - Coimbatore
+367, Surya Engineering College, Erode, , Anna University - Coimbatore
+368, Tagore Institute of Engineering and Technology, Salem, , Anna University - Coimbatore
+369, Tamilnadu College of Engineering, Coimbatore, , Anna University - Coimbatore
+370, Tamilnadu School of Architecture, Coimbatore, , Anna University - Coimbatore
+371, Tejaa Shakthi Institute of Technology for Women, Coimbatore, , Anna University - Coimbatore
+372, The Kavery College of Engineering, Salem, , Anna University - Coimbatore
+373, The Kavery Engineering College, Salem, , Anna University - Coimbatore
+374, United Institute of Technology, Coimbatore, , Anna University - Coimbatore
+375, V.K.S. College of Engineering and Technology, Karur, , Anna University - Coimbatore
+376, V.L.B. Janaki Ammal College of Engineering and Technology, Coimbatore, , Anna University - Coimbatore
+377, V.S.A. Educational and Charitable Trust’s Group of Institutions, Salem, , Anna University - Coimbatore
+378, V.S.B. Engineering College, Karur, , Anna University - Coimbatore
+379, Velalar College of Engineering and Technology, Erode, , Anna University - Coimbatore
+380, Vidhya Vikkas College of Engineering and Technology, Namakkal, , Anna University - Coimbatore
+381, Vivekanadha College of Engineering for Women, Namakkal, , Anna University - Coimbatore
+382, Vivekanandha College of Technology for Women, Namakkal, , Anna University - Coimbatore
+383, Annai Vailankanni College of Engineering, Kanyakumari, , Anna University - Tirunelveli
+384, Arunachala College of Engineering for Women, Kanyakumari, , Anna University - Tirunelveli
+385, Bethlahem Institute of Engineering, Kanyakumari, , Anna University - Tirunelveli
+386, C.S.I. Institute of Technology, Kanyakumari, , Anna University - Tirunelveli
+387, Cape Institute of Technology, Tirunelveli, , Anna University - Tirunelveli
+388, Chandy College of Engineering, Tuticorin, , Anna University - Tirunelveli
+389, D.M.I. Engineering College, Kanyakumari, , Anna University - Tirunelveli
+390, Dr. G.U. Pope College of Engineering, Tuticorin, , Anna University - Tirunelveli
+391, Dr. Sivanthi Aditanar College of Engineering, Tuticorin, , Anna University - Tirunelveli
+392, Einstein College of Engineering, Tirunelveli, , Anna University - Tirunelveli
+393, Fatima Michael College of Engineering & Technology, Madurai, , Anna University - Tirunelveli
+394, Francis Xavier Engineering College, Tirunelveli, , Anna University - Tirunelveli
+395, Government College of Engineering, Tirunelveli, , Anna University - Tirunelveli
+396, Holy Cross Engineering College, Tuticorin, , Anna University - Tirunelveli
+397, Immanuel Arasar J J College of Engineering, Kanyakumari, , Anna University - Tirunelveli
+398, J.P. College of Engineering, Tirunelveli, , Anna University - Tirunelveli
+399, James College of Engineering and Technology, Kanyakumari, , Anna University - Tirunelveli
+400, Jayamatha Engineering College, Kanyakumari, , Anna University - Tirunelveli
+401, Jeyaraj Annapackiam CSI College of Engineering, Tuticorin, , Anna University - Tirunelveli
+402, Joe Suresh Engineering CollegeJoe Suresh Engineering College, Tirunelveli, , Anna University - Tirunelveli
+403, K.N.S.K. College of Engineering, Kanyakumari, , Anna University - Tirunelveli
+404, Kalasalingam Institute of Technology, Virudhunagar, , Anna University - Tirunelveli
+405, Kamaraj College of Engineering and Technology, Madurai, , Anna University - Tirunelveli
+406, Latha Mathavan Engineering College, Madurai, , Anna University - Tirunelveli
+407, Lord Jegannath College of Engineering and Technology, Kanyakumari, , Anna University - Tirunelveli
+408, Loyola Institute of Technology and Science, Kanyakumari, , Anna University - Tirunelveli
+409, M.E.T. Engineering College, Kanyakumari, , Anna University - Tirunelveli
+410, Mahakavi Bharathiyar College of Engineering and Technology, Tirunelveli, , Anna University - Tirunelveli
+411, Maria Collge of Engineering and Technology, Kanyakumari, , Anna University - Tirunelveli
+412, Marthandam College of Engineering and Technology, Kanyakumari, , Anna University - Tirunelveli
+413, Narayanaguru College of Engineering, Kanyakumari, , Anna University - Tirunelveli
+414, National College of Engineering, Tirunelveli, , Anna University - Tirunelveli
+415, National Engineering College, Tuticorin, , Anna University - Tirunelveli
+416, P.S.N. College of Engineering and Technology, Tirunelveli, , Anna University - Tirunelveli
+417, P.S.N. Engineering College, Tirunelveli, , Anna University - Tirunelveli
+418, P.S.N. Institute of Technology & Science, Tirunelveli, , Anna University - Tirunelveli
+419, P.S.R. Engineering College, Virudhunagar, , Anna University - Tirunelveli
+420, P.S.R. Rengasamy College of Engineering for Women, Virudhunagar, , Anna University - Tirunelveli
+421, P.T.R. College of Engineering and Technology, Madurai, , Anna University - Tirunelveli
+422, Ponjesly College of Engineering, Kanyakumari, , Anna University - Tirunelveli
+423, R.V.S. School of Engineering and Technology, Dindigul, , Anna University - Tirunelveli
+424, Raja College of Engineering and Technology, Madurai, , Anna University - Tirunelveli
+425, Rajas International Institute of Technology for Women, Kanyakumari, , Anna University - Tirunelveli
+426, S. Veerasamy Chettiar College of Engineering and Technology, Tirunelveli, , Anna University - Tirunelveli
+427, Sardar Raja College of Engineering, Tirunelveli, , Anna University - Tirunelveli
+428, Satyam College of Engineering & Technology, Kanyakumari, , Anna University - Tirunelveli
+429, SCAD College of Engineering and Technology, Tirunelveli, , Anna University - Tirunelveli
+430, Scad Engineering College, Tirunelveli, , Anna University - Tirunelveli
+431, Sethu Institute of Technology, Virudhunagar, , Anna University - Tirunelveli
+432, Sree Sowdambika College of Engineering, Virudhunagar, , Anna University - Tirunelveli
+433, Sri Vidya College of Engineering and Technology, Virudhunagar, , Anna University - Tirunelveli
+434, St. Mother Theresa Engineering College, Tuticorin, , Anna University - Tirunelveli
+435, St. Xavier Catholic College of Engineering, Kanyakumari, , Anna University - Tirunelveli
+436, Sun College of Engineering and Technology, Kanyakumari, , Anna University - Tirunelveli
+437, Tamizhan College of Engineering and Technology, Kanyakumari, , Anna University - Tirunelveli
+438, The Rajaas Engineering College, Tirunelveli, , Anna University - Tirunelveli
+439, Thiagarajar College of Engineering, Madurai, , Anna University - Tirunelveli
+440, Udaya School of Engineering, Kanyakumari, , Anna University - Tirunelveli
+441, Ultra College of Engineering & Technology for Women, Madurai, , Anna University - Tirunelveli
+442, University College of Engineering, Kanyakumari, , Anna University - Tirunelveli
+443, University Departments of Anna University Tirunelveli, Tirunelveli, , Anna University - Tirunelveli
+444, University VOC College of Engineering, Tuticorin, , Anna University - Tirunelveli
+445, Unnamalai Institute of Technology, Tuticorin, , Anna University - Tirunelveli
+446, V.V. College of Engineering, Tirunelveli, , Anna University - Tirunelveli
+447, Velammal College of Engineering and Technology, Madurai, , Anna University - Tirunelveli
+448, Vins Christian College of Engineering, Kanyakumari, , Anna University - Tirunelveli
+449, Vins Christian Women's College of Engineering, Kanyakumari, , Anna University - Tirunelveli
+450, A.C. College of Engineering and Technology, Sivagangai, , Anna University - Trichy
+451, A.R.J. College of Engineering and Technology, Tiruvarur, , Anna University - Trichy
+452, A.V.C. College of Engineering, Nagapattinam, , Anna University - Trichy
+453, Anjalai Ammal Mahalingam Engineering College, Tiruvarur, , Anna University - Trichy
+454, Anna University Tiruchirappali - Ariyalur Campus, Trichy, , Anna University - Trichy
+455, Anna University Tiruchirappali - Panruti, Cuddalore, , Anna University - Trichy
+456, Anna University Tiruchirappali - Ramanathapuram, Ramnad, , Anna University - Trichy
+457, Anna University Tiruchirappali - Thirukkuvalai, Nagapattinam, , Anna University - Trichy
+458, Anna University Tiruchirappalli - Dindigul, Dindigul, , Anna University - Trichy
+459, Anna University Tiruchirappalli - Pattukkottai, Thanjavur, , Anna University - Trichy
+460, Annai College of Engineering and Technology, Thanjavur, , Anna University - Trichy
+461, Arasu Engineering College, Kanchipuram, , Anna University - Trichy
+462, As-Salam College of Engineering and Technology, Thanjavur, , Anna University - Trichy
+463, Bharath Niketan Engineering College, Theni, , Anna University - Trichy
+464, C.A.R.E. School of Engineering, Trichy, , Anna University - Trichy
+465, Cauvery College of Engineering and Technology, Trichy, , Anna University - Trichy
+466, Central Electro Chemical Research Institute, Sivagangai, , Anna University - Trichy
+467, Chendhuran College of Engineering and Technology, Pudukottai, , Anna University - Trichy
+468, Dhanalakshmi Srinivasan Engineering College, Perambalur, , Anna University - Trichy
+469, Dr. Navalar Nedunchezhiyan College of Engineering, Cuddalore, , Anna University - Trichy
+470, Edayathangudi G.S. Pillay Engineering College, Nagapattinam, , Anna University - Trichy
+471, Ganapathy Chettiar College of Engineering and Technology, Ramnad, , Anna University - Trichy
+472, Imayam College of Engineering, Trichy, , Anna University - Trichy
+473, Indra Ganesan College of Engineering, Trichy, , Anna University - Trichy
+474, J.J. College of Engineering and Technology, Trichy, , Anna University - Trichy
+475, Jayaram College of Engineering and Technology, Trichy, , Anna University - Trichy
+476, K. Ramakrishnan College of Engineering, Trichy, , Anna University - Trichy
+477, K. Ramakrishnan College of Technology, Trichy, , Anna University - Trichy
+478, K.K.C. College of Engineering and Technology, Ariyalur, , Anna University - Trichy
+479, Kodaikanal Institute of Technology, Dindigul, , Anna University - Trichy
+480, Kongunadu College of Engineering and Technology, Trichy, , Anna University - Trichy
+481, Krishnasamy College of Engineering and Technology, Cuddalore, , Anna University - Trichy
+482, Kurinji College of Engineering and Technology, Trichy, , Anna University - Trichy
+483, M.A.M. College of Engineering, Trichy, , Anna University - Trichy
+484, M.A.M. College of Engineering and Technology, Trichy, , Anna University - Trichy
+485, M.A.M. School of Engineering, Trichy, , Anna University - Trichy
+486, M.A.R. College of Engineering and Technology, Pudukottai, , Anna University - Trichy
+487, M.I.E.T. Engineering College, Trichy, , Anna University - Trichy
+488, M.N.S.K. College of Engineering, Pudukottai, , Anna University - Trichy
+489, M.R.K. Institute of Technology, Cuddalore, , Anna University - Trichy
+490, Madurai Institute of Engineering and Technology, Sivagangai, , Anna University - Trichy
+491, Mahalakshmi Engineering College, Trichy, , Anna University - Trichy
+492, Mahath Amma Institute of Engineering and Technology, Pudukottai, , Anna University - Trichy
+493, Mohamed Sathak Engineering College, Ramnad, , Anna University - Trichy
+494, Mookambigai College of Engineering, Pudukottai, , Anna University - Trichy
+495, Mount Zion College of Engineering and Technology, Pudukottai, , Anna University - Trichy
+496, N.P.R. College of Engineering and Technology, Dindigul, , Anna University - Trichy
+497, Oxford Engineering College, Trichy, , Anna University - Trichy
+498, Pandiyan Saraswathi Yadav Engineering College, Sivagangai, , Anna University - Trichy
+499, Pannai College of Engineering and Technology, Sivagangai, , Anna University - Trichy
+500, Pannaikadu Veerammal Paramasivam College of Engineering and Technology for Women, Dindigul, , Anna University - Trichy
+501, Parisutham Institute of Technology and Science, Thanjavur, , Anna University - Trichy
+502, Pavendar Bharathidasan Institute of Information Technology, Trichy, , Anna University - Trichy
+503, Paventhar Bharathidasan College of Engineering and Technology, Trichy, , Anna University - Trichy
+504, Ponnaiyah Ramajayam College of Engineering and Technology, Thanjavur, , Anna University - Trichy
+505, Roever College of Engineering and Technology, Perambalur, , Anna University - Trichy
+506, Roever Engineering College, Perambalur, , Anna University - Trichy
+507, S.B.M. College of Engineering and Technology, Dindigul, , Anna University - Trichy
+508, Saranathan College of Engineering, Trichy, , Anna University - Trichy
+509, Sembodai Rukmani Varatharajan Engineering College, Nagapattinam, , Anna University - Trichy
+510, Shanmuganathan Engineering College, Pudukottai, , Anna University - Trichy
+511, Shivani Engneering College, Trichy, , Anna University - Trichy
+512, Shivani Institute of Technology, Trichy, , Anna University - Trichy
+513, Shri Angala Amman College of Engineering and Technology, Trichy, , Anna University - Trichy
+514, Sir Issac Newton College of Engineering and Technology, Nagapattinam, , Anna University - Trichy
+515, SMR East Coast College of Engineering and Technology, Thanjavur, , Anna University - Trichy
+516, Sri Bharathi Engineering College for Women, Pudukottai, , Anna University - Trichy
+517, Sri Subramaniya College of Engineering and Technology, Dindigul, , Anna University - Trichy
+518, Srinivasan Engineering College, Perambalur, , Anna University - Trichy
+519, St. Anne's College of Engineering and Technology, Cuddalore, , Anna University - Trichy
+520, Star Lion College of Engineering and Technology, Thanjavur, , Anna University - Trichy
+521, Sudharsan Engineering College, Pudukottai, , Anna University - Trichy
+522, The Selvam Women Excellence Engineering Technology, Ramnad, , Anna University - Trichy
+523, Theni Kammavar Sangam College of Technology, Theni, , Anna University - Trichy
+524, Trichy Engineering College, Trichy, , Anna University - Trichy
+525, TRP Engineering College, Trichy, , Anna University - Trichy
+526, University Departments of Anna University Tiruchirappalli - BIT Campus, Trichy, , Anna University - Trichy
+527, Vandayar Engineering College, Thanjavur, , Anna University - Trichy
+528, Vetri Vinayaha College of Engineering and Technology, Trichy, , Anna University - Trichy
+529, Annamalai University, Cuddalore, , Annamalai University
+530, Annamalai University, Cuddalore, , Annamalai University
+531, A.D.M. College for Women, Nagapattinam, , Bharathidasan University
+532, A.R.C. Viswanathan College, Nagapattinam, , Bharathidasan University
+533, A.V.C. College (Autonomous), Nagapattinam, , Bharathidasan University
+534, A.V.V.M. Sri Pushpam College (Autonomous), Thanjavur, , Bharathidasan University
+535, Abi and Abi College, Thanjavur, , Bharathidasan University
+536, Adaikala Matha College, Thanjavur, , Bharathidasan University
+537, Aiman College of Arts and Science for Women, Trichy, , Bharathidasan University
+538, Annai College of Arts and Science, Thanjavur, , Bharathidasan University
+539, Annai Women's College, Karur, , Bharathidasan University
+540, Arignar Anna Govt. Arts College, Trichy, , Bharathidasan University
+541, Arputha College of Arts and Science, Pudukottai, , Bharathidasan University
+542, Arungarai Amman College of Arts and Science, Karur, , Bharathidasan University
+543, Auxilium College of Arts and Science for Women, Pudukottai, , Bharathidasan University
+544, Best Arts and Science College, Nagapattinam, , Bharathidasan University
+545, Bharath College of Science and Management, Thanjavur, , Bharathidasan University
+546, Bishop Heber College, Trichy, , Bharathidasan University
+547, Bon Secours College for Women, Thanjavur, , Bharathidasan University
+548, Cambridge College of Arts and Science, Karur, , Bharathidasan University
+549, Cauveri College for Women, Trichy, , Bharathidasan University
+550, Chettinad College of Arts and Science, Trichy, , Bharathidasan University
+551, Chidambaram Pillai College of Women, Trichy, , Bharathidasan University
+552, Christhu Raj College, Trichy, , Bharathidasan University
+553, D.G. Govt. Arts College for Women, Nagapattinam, , Bharathidasan University
+554, Dhanalakshmi Srinivasan College of Arts and Science for Women, Perambalur, , Bharathidasan University
+555, Dharmambal Ramasamy Arts and Science College, Thanjavur, , Bharathidasan University
+556, Dharmapuram Adinam Arts College, Nagapattinam, , Bharathidasan University
+557, Dr. Kalaignar Government Arts College, Karur, , Bharathidasan University
+558, Dr. Nallikuppusamy Arts College, Thanjavur, , Bharathidasan University
+559, Edaiyathangudi G.S. Pillai Arts and Science College, Nagapattinam, , Bharathidasan University
+560, Enathi Rajappa College of Arts and Science, Thanjavur, , Bharathidasan University
+561, Ganesar Senthamil Kallori, Thanjavur, , Bharathidasan University
+562, Government Arts College for Women, Pudukottai, , Bharathidasan University
+563, Government Arts College for Women, Thanjavur, , Bharathidasan University
+564, Government College for Women, Thanjavur, , Bharathidasan University
+565, Govt. Arts College, Ariyalur, , Bharathidasan University
+566, Govt. Arts College, Karur, , Bharathidasan University
+567, Govt. Arts College, Trichy, , Bharathidasan University
+568, H.H. The Rajahs College (Autonomous), Pudukottai, , Bharathidasan University
+569, Holy Cross College (Autonomous), Trichy, , Bharathidasan University
+570, Idhaya College of Arts and Science for Women, Thanjavur, , Bharathidasan University
+571, Imayam College of Arts and Science, Trichy, , Bharathidasan University
+572, J.J. College of Arts & Science, Pudukottai, , Bharathidasan University
+573, Jamal Mohamed College, Trichy, , Bharathidasan University
+574, Khadir Mohideen College, Thanjavur, , Bharathidasan University
+575, Kongu College of Arts and Science, Karur, , Bharathidasan University
+576, Kundavai Nachiyar Govt. College for Women, Thanjavur, , Bharathidasan University
+577, Kurinji Arts and Science College, Trichy, , Bharathidasan University
+578, M.I.E.T. College of Arts and Science, Trichy, , Bharathidasan University
+579, M.R. Govt. Arts College, Tiruvarur, , Bharathidasan University
+580, Mahatma Arts and Science College, Pudukottai, , Bharathidasan University
+581, Manickam College of Arts and Science, Thanjavur, , Bharathidasan University
+582, Maruthupandiyar College, Thanjavur, , Bharathidasan University
+583, Mass College of Arts and Science, Thanjavur, , Bharathidasan University
+584, Meenakshi Chandrasekaran College of Arts and Science, Thanjavur, , Bharathidasan University
+585, Meenakshi Ramasamy Arts and Science College, Perambalur, , Bharathidasan University
+586, Modern Arts and Science College, Ariyalur, , Bharathidasan University
+587, Moti and Moti Arts and Science College, Thanjavur, , Bharathidasan University
+588, Naina Mohamed College of Arts and Science, Pudukottai, , Bharathidasan University
+589, Nallamuthu Gounder Mahalingam College (Autonomous), Coimbatore, , Bharathidasan University
+590, National College, Trichy, , Bharathidasan University
+591, Nehru Memorial College, Trichy, , Bharathidasan University
+592, Nethaji Subash Chandra Bose College, Tiruvarur, , Bharathidasan University
+593, Pavendar Bharadhidasan Arts and Science College, Trichy, , Bharathidasan University
+594, Periyar E.V.R. College (Autonomous), Trichy, , Bharathidasan University
+595, Ponnaiyah Ramajayam College, Thanjavur, , Bharathidasan University
+596, Poompuhar College, Nagapattinam, , Bharathidasan University
+597, Rabiammal Ahamed Maideen College for Women, Thanjavur, , Bharathidasan University
+598, Rajagiri Dawood Batcha College of Arts and Science, Thanjavur, , Bharathidasan University
+599, Rajah Serfoji Govt.Arts College, Thanjavur, , Bharathidasan University
+600, Rajahs College, Thanjavur, , Bharathidasan University
+601, S.K. College of Arts and Science, Tiruvarur, , Bharathidasan University
+602, S.K.S.S. Arts College, Thanjavur, , Bharathidasan University
+603, Sami Arul Arts and Science College, Thanjavur, , Bharathidasan University
+604, Seethalakshmi Ramaswamy College (Autonomous), Trichy, , Bharathidasan University
+605, Semgamala Thaayar Educational Trust Women's College, Tiruvarur, , Bharathidasan University
+606, Shrimathi Indira Gandhi College (Women), Trichy, , Bharathidasan University
+607, Sri Bharathi Arts and Science College (W), Pudukottai, , Bharathidasan University
+608, Sri Sankara Arts and Science College, Thanjavur, , Bharathidasan University
+609, Sri Sarada Niketan College of Science for Women, Karur, , Bharathidasan University
+610, Sri Saradha College for Women, Perambalur, , Bharathidasan University
+611, Sri Venkateswara College of Arts and Science, Thanjavur, , Bharathidasan University
+612, Srimad Andavan Arts and Science College, Trichy, , Bharathidasan University
+613, Srinivasan College of Arts and Science, Perambalur, , Bharathidasan University
+614, St. Josephs College (Autonomous), Trichy, , Bharathidasan University
+615, Sudharsan College of Arts and Science, Pudukottai, , Bharathidasan University
+616, Sulthana Adbullah Rowther College for Women, Thanjavur, , Bharathidasan University
+617, T.B.M.L. College, Nagapattinam, , Bharathidasan University
+618, T.T. Narasimhan - Swami Dayananda College of Arts and Science, Thanjavur, , Bharathidasan University
+619, Tamilavel Uma Maheswarnar Karanthai Arts College, Thanjavur, , Bharathidasan University
+620, Thanthai Hans Roever College, Perambalur, , Bharathidasan University
+621, Thiru-Vi-Ka Govt. Arts College, Tiruvarur, , Bharathidasan University
+622, Urumu Dhanalakshmi College, Trichy, , Bharathidasan University
+623, Valluvar College of Science and Management, Karur, , Bharathidasan University
+624, Vivekananda Arts and Science College for Women, Nagapattinam, , Bharathidasan University
+625, A.J.K. College of Arts and Science, Coimbatore, , Bharathiyar University
+626, Adharsh Vidyalaya College of Arts and Science for Women, Erode, , Bharathiyar University
+627, Angappa College of Arts and Science, Coimbatore, , Bharathiyar University
+628, Ayyan Thiruvalluvar College of Arts and Science, Coimbatore, , Bharathiyar University
+629, Bharathiar University, Coimbatore, , Bharathiyar University
+630, Bharathidasan College of Arts and Science, Erode, , Bharathiyar University
+631, Bishop Ambrose College, Coimbatore, , Bharathiyar University
+632, Bishop Thorp College, Erode, , Bharathiyar University
+633, C.B.M. College, Coimbatore, , Bharathiyar University
+634, C.M.S. College of Science and Commerce, Coimbatore, , Bharathiyar University
+635, C.S.I. Bishop Appasamy College of Arts and Science, Coimbatore, , Bharathiyar University
+636, Cheraan's Arts Science College, Erode, , Bharathiyar University
+637, Cherran College For Women, Tirupur, , Bharathiyar University
+638, Chikkaiah Naiacker College, Erode, , Bharathiyar University
+639, Chikkanna Government Arts College, Coimbatore, , Bharathiyar University
+640, Dr. G.R. Damodaran College of Science, Coimbatore, , Bharathiyar University
+641, Dr. N.G.P. Arts and Science College, Coimbatore, , Bharathiyar University
+642, Dr. R.A.N.M. Arts and Science College, Erode, , Bharathiyar University
+643, Dr. R.V. Arts and Science College, Coimbatore, , Bharathiyar University
+644, Dr. S.N.S. Rajalakshmi College of Arts and Science, Coimbatore, , Bharathiyar University
+645, Emerald Heights College for Women, Nilgiris, , Bharathiyar University
+646, Erode Arts College (Autonomous), Erode, , Bharathiyar University
+647, Erode Arts College for Women, Erode, , Bharathiyar University
+648, Erode Christian College of Arts and Science for Women, Erode, , Bharathiyar University
+649, Gobi Arts and Science College (Autonomous), Erode, , Bharathiyar University
+650, Govt. Arts College, Nilgiris, , Bharathiyar University
+651, Govt. Arts College, Coimbatore, , Bharathiyar University
+652, Govt. Arts College (Autonomous), Coimbatore, , Bharathiyar University
+653, Hindusthan College of Arts and Science, Coimbatore, , Bharathiyar University
+654, K.G. College of Arts and Science, Coimbatore, , Bharathiyar University
+655, K.S.G. College of Arts and Science, Coimbatore, , Bharathiyar University
+656, Kaamadhenu Arts and Science College, Erode, , Bharathiyar University
+657, Kairali Arts Science and Commerce College, Coimbatore, , Bharathiyar University
+658, Karuppannan Mariappan College, Erode, , Bharathiyar University
+659, KAYPEEYES College of Arts and Science, Nilgiris, , Bharathiyar University
+660, Kongu Arts and Science College, Erode, , Bharathiyar University
+661, Kongunadu Arts and Science College, Coimbatore, , Bharathiyar University
+662, Kovai Kalaimagal College of Arts and Science, Coimbatore, , Bharathiyar University
+663, L.R.G. Govt. Arts College for Women, Coimbatore, , Bharathiyar University
+664, Lakshmi Narayanan Visalakshi College of Arts and Science, Coimbatore, , Bharathiyar University
+665, Maharaja Arts and Science College, Coimbatore, , Bharathiyar University
+666, Maharaja College for Women, Erode, , Bharathiyar University
+667, Maharani Arts and Science Women's College, Erode, , Bharathiyar University
+668, Michael Job College of Arts and Science for Women, Coimbatore, , Bharathiyar University
+669, Nandha Arts and Science College, Erode, , Bharathiyar University
+670, Navarasam Arts and Science College for Women, Erode, , Bharathiyar University
+671, Nehru Arts and Science College, Coimbatore, , Bharathiyar University
+672, Nehru College of Arts and Science, Tirupur, , Bharathiyar University
+673, Nift Tea College of Knitwear Fashion, Tirupur, , Bharathiyar University
+674, Nirmala College for Women, Coimbatore, , Bharathiyar University
+675, P.K.R. Arts College for Women, Erode, , Bharathiyar University
+676, P.S.G. College of Arts and Science (Autonomous), Coimbatore, , Bharathiyar University
+677, P.S.G.R. Krishnamal College for Women, Coimbatore, , Bharathiyar University
+678, Park's College, Tirupur, , Bharathiyar University
+679, Providence College for Women, Nilgiris, , Bharathiyar University
+680, R.V.S. College of Arts and Science, Coimbatore, , Bharathiyar University
+681, Rathinam College of Arts and Science, Coimbatore, , Bharathiyar University
+682, S.M.S. College of Arts and Science, Coimbatore, , Bharathiyar University
+683, S.N.R. Sons College, Coimbatore, , Bharathiyar University
+684, Sankara College of Science and Commerce, Coimbatore, , Bharathiyar University
+685, Saratha College of Arts and Science, Erode, , Bharathiyar University
+686, Shiri Kumaran College of Arts and Science, Coimbatore, , Bharathiyar University
+687, Shri Nehru Maha Vidyalaya College of Arts and Science, Coimbatore, , Bharathiyar University
+688, Sree Amman Arts and Science College, Erode, , Bharathiyar University
+689, Sree Narayana Guru College, Coimbatore, , Bharathiyar University
+690, Sree Ramu College of Arts and Science, Coimbatore, , Bharathiyar University
+691, Sree Saraswathy Thyagaraja College, Coimbatore, , Bharathiyar University
+692, Sri G.V.G. Visalakshi College for Women (Autonomous), Coimbatore, , Bharathiyar University
+693, Sri Gee College of Arts and Science, Coimbatore, , Bharathiyar University
+694, Sri Jayendra Saraswathy Maha Vidayalaya College of Arts and Science, Coimbatore, , Bharathiyar University
+695, Sri Krishna Arts and Science College, Coimbatore, , Bharathiyar University
+696, Sri Ramakrishna College of Arts and Science for Women, Coimbatore, , Bharathiyar University
+697, Sri Ramakrishna Mission Vidyalaya College of Arts and Science (Autonomous), Coimbatore, , Bharathiyar University
+698, Sri Ramalinga Sowdambigai College of Science and Commerce, Coimbatore, , Bharathiyar University
+699, Sri Vasavi College, Erode, , Bharathiyar University
+700, St. Joseph's College for Women, Coimbatore, , Bharathiyar University
+701, TERF's Academy College of Arts and Science, Tirupur, , Bharathiyar University
+702, Texcity Arts and Science College, Coimbatore, , Bharathiyar University
+703, Thavathiru Santhalinga Adigallar Arts and Science, Coimbatore, , Bharathiyar University
+704, Tiruppur Kumaran College for Women, Tirupur, , Bharathiyar University
+705, V.L.B. Janakiammal College of Arts and Science, Coimbatore, , Bharathiyar University
+706, V.N. Krishnasamy Naidu College of Arts and Science for Women, Coimbatore, , Bharathiyar University
+707, Vellakoil Arts and Science College, Erode, , Bharathiyar University
+708, Vellalar College for Women, Erode, , Bharathiyar University
+709, Vidyasagar College of Arts and Science, Coimbatore, , Bharathiyar University
+710, A.C.S. Medical College and Hospital, Chennai, , Deemed University
+711, Agricultural Engineering College & Research Institute, Coimbatore, , Deemed University
+712, Amrita School of Engineering, Coimbatore, , Deemed University
+713, Avinashilingam Faculty Of Engineering College, Coimbatore, , Deemed University
+714, Avinashilingam University for Women (Avinashilingam Institute for Home Science and Higher Education for Women), Coimbatore, , Deemed University
+715, Bharath University (Bharath Institute of Higher Education and Research), Chennai, , Deemed University
+716, Chettinad University (Chettinad College of Nursing), Kanchipuram, , Deemed University
+717, Chettinad University (Chettinad Dental College and Research Institute), Kanchipuram, , Deemed University
+718, Chettinad University (Chettinad Hospital and Research Institute), Kanchipuram, , Deemed University
+719, Dr. M.G.R. Educational and Research Institute, Chennai, , Deemed University
+720, Dr. MGR University (Dr. M.G.R. Educational and Research Insitute), Chennai, , Deemed University
+721, Gandhigram Rural University, Dindigul, , Deemed University
+722, Kalasalingam University (Arulmigu Kalasalingam College of Engineering), Virudhunagar, , Deemed University
+723, Karpagam University (Karpagam Arts and Science College), Coimbatore, , Deemed University
+724, Karunya University (Karunya Institute of Technology and Sciences), Coimbatore, , Deemed University
+725, Karunya University (Karunya Institute of Technology), Coimbatore, , Deemed University
+726, Meenakshi University (Arulmigu Meenakshi College of Nursing), Kanchipuram, , Deemed University
+727, Meenakshi University (Meenakshi Ammal Dental College and Hospital), Chennai, , Deemed University
+728, Meenakshi University (Meenakshi Medical College and Research Institute), Kanchipuram, , Deemed University
+729, National Institute of Technology, Trichy, , Deemed University
+730, Noorul Islam University (Noorul Islam College of Engineering), Kanyakumari, , Deemed University
+731, Periyar Maniammai University (Periyar Maniammai College of Technology for Women), Thanjavur, , Deemed University
+732, PRIST University (P.R. Engineering College), Thanjavur, , Deemed University
+733, Rajah Muthiah Medical College, Cuddalore, , Deemed University
+734, Ramakrishna Mission Vivekananda University, Coimbatore, , Deemed University
+735, S.R.M. Institute of Education, Chennai, , Deemed University
+736, S.R.M. School of Teacher Education and Research, Kanchipuram, , Deemed University
+737, SASTRA University (Shanmugha Arts Science Technology and Research Academy), Thanjavur, , Deemed University
+738, SASTRA University (Shanmugha Arts Science Technology and Research Academy), Thanjavur, , Deemed University
+739, Sathyabama Institute of Education, Chennai, , Deemed University
+740, Sathyabama University (Sathyabama Engineering College), Chennai, , Deemed University
+741, Saveetha University (Saveetha Medical College and Hospital), Kanchipuram, , Deemed University
+742, SCSVMV University (Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya), Kanchipuram, , Deemed University
+743, SCSVMV University (Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya), Kanchipuram, , Deemed University
+744, SCSVMV University (Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya), Kanchipuram, , Deemed University
+745, Sri Ramachandra University (Sri Ramachandra Dental College), Chennai, , Deemed University
+746, Sri Ramachandra University (Sri Ramachandra Medical College and Research Institute), Chennai, , Deemed University
+747, Sri Ramachandra University (Sri Ramachandra Medical College and Research Institute), Chennai, , Deemed University
+748, Vel Tech Dr.RR and Dr.SR Technical University (Vel Tech Engineering College), Chennai, , Deemed University
+749, Vinayaka Mission's Kirupananda Variyar Medical College, Salem, , Deemed University
+750, Vinayaka Mission's Sankarachariyar Dental College, Salem, , Deemed University
+751, Vinayaka Missions Kirupananda Variyar Arts and Science College, Salem, , Deemed University
+752, VIT University (Vellore Institute of Technology), Vellore, , Deemed University
+753, Pioneer College of Arts and Science, Coimbatore, , Bharathiyar University
+754, A.K.C. College of Arts and Science, Virudhunagar, , Madurai Kamaraj University
+755, A.K.D. Dharmaraja's Women's College, Virudhunagar, , Madurai Kamaraj University
+756, A.N.J.A. College (Autonomous), Virudhunagar, , Madurai Kamaraj University
+757, A.P.A. College of Arts and Culture, Dindigul, , Madurai Kamaraj University
+758, Ambiga College of Arts and Science, Madurai, , Madurai Kamaraj University
+759, Annai Fathima College of Arts and Science, Madurai, , Madurai Kamaraj University
+760, Arul Anandar College, Madurai, , Madurai Kamaraj University
+761, C.P.A. College, Theni, , Madurai Kamaraj University
+762, C.S.I. Darling Selvabai Thavaraj David College of Arts and Science for Women, Madurai, , Madurai Kamaraj University
+763, Devanga Arts College, Virudhunagar, , Madurai Kamaraj University
+764, E.M.G. Yadava Women's College, Madurai, , Madurai Kamaraj University
+765, Fatima College (Autonomous), Madurai, , Madurai Kamaraj University
+766, G.T.N. Arts College, Dindigul Govt. Arts College, Madurai, , Madurai Kamaraj University
+767, H.K.R.H. College, Theni, , Madurai Kamaraj University
+768, Jayaraj Annapackiam College for Women (Autonomous), Theni, , Madurai Kamaraj University
+769, Jeyaraj Chelladurai College of Arts and Science, Theni, , Madurai Kamaraj University
+770, Kodaikanal Christian College, Dindigul, , Madurai Kamaraj University
+771, Lady Doak College (Autonomous), Madurai, , Madurai Kamaraj University
+772, M.A.V.M.M. Ayira Vysiar College, Madurai, , Madurai Kamaraj University
+773, M.K. University College, Madurai, , Madurai Kamaraj University
+774, Mother Teresa Womens University, Dindigul, , Mother Teresa Women's University
+775, M.S.S. Wakf Board College, Madurai, , Madurai Kamaraj University
+776, St. Justins College of Education, Madurai, , Tamil Nadu Physical Education and Sports University
+777, M.V. Muthiah Govt. Arts College for Women, Dindigul, , Madurai Kamaraj University
+778, Madura College (Autonomous), Madurai, , Madurai Kamaraj University
+779, Madurai Institute of Social Sciences, Madurai, , Madurai Kamaraj University
+780, Madurai Kamaraj University College, Theni, , Madurai Kamaraj University
+781, Madurai Kamaraj University Evening College, Dindigul, , Madurai Kamaraj University
+782, Madurai Kamaraj University Evening College, Ramnad, , Madurai Kamaraj University
+783, Madurai Kamaraj University Evening College, Dindigul, , Madurai Kamaraj University
+784, Madurai Kamaraj University Evening College, Theni, , Madurai Kamaraj University
+785, Madurai Kamaraj University Evening College, Madurai, , Madurai Kamaraj University
+786, Madurai Kamaraj University Evening College, Theni, , Madurai Kamaraj University
+787, Mangayarkarasi Arts and Science College for Women, Madurai, , Madurai Kamaraj University
+788, Mannar Tirumalai Naicker College, Madurai, , Madurai Kamaraj University
+789, N.M.S. Sermathai Vasan College for Women, Madurai, , Madurai Kamaraj University
+790, N.M.S.S. Vellachami Nadar College, Madurai, , Madurai Kamaraj University
+791, N.P.R. Arts and Science College, Dindigul, , Madurai Kamaraj University
+792, Nadar Saraswathy College of Arts and Science, Theni, , Madurai Kamaraj University
+793, P.K.N. Arts and Science College, Madurai, , Madurai Kamaraj University
+794, Pannaikadu Veerammal Paramasivam College, Dindigul, , Madurai Kamaraj University
+795, Parvathy's Arts and Science College, Dindigul, , Madurai Kamaraj University
+796, Pasumpon Muthuramalinga Thevar College, Madurai, , Madurai Kamaraj University
+797, Rajapalayam Raju's College, Virudhunagar, , Madurai Kamaraj University
+798, Rama Prabha College of Arts and Science, Dindigul, , Madurai Kamaraj University
+799, Rev. Jacob Memorial Christian College, Dindigul, , Madurai Kamaraj University
+800, S.B.K. College, Virudhunagar, , Madurai Kamaraj University
+801, S.P. College of Science and Arts, Madurai, , Madurai Kamaraj University
+802, Saraswathy Narayanan College, Madurai, , Madurai Kamaraj University
+803, Senthamil College, Madurai, , Madurai Kamaraj University
+804, Sourashtra College, Madurai, , Madurai Kamaraj University
+805, Sourashtra College for Women, Madurai, , Madurai Kamaraj University
+806, Sri Adi Chunchanagiri Women's College, Theni, , Madurai Kamaraj University
+807, Sri Kaliswari College, Virudhunagar, , Madurai Kamaraj University
+808, Sri Meenakshi Govt. College for Women (Autonomous), Madurai, , Madurai Kamaraj University
+809, Sri Nagalakshmi Ammal Arts and Science College, Madurai, , Madurai Kamaraj University
+810, Sri S. Ramasamy Naidu Memorial College, Virudhunagar, , Madurai Kamaraj University
+811, Sri Sai Bharath College of Arts and Science, Dindigul, , Madurai Kamaraj University
+812, St. George's Jayaraj Chelladurai College for Women, Madurai, , Madurai Kamaraj University
+813, Subbalakshmi Lakshmipathi College of Science, Madurai, , Madurai Kamaraj University
+814, Subramanya College of Arts and Science, Dindigul, , Madurai Kamaraj University
+815, The American College (Autonomous), Madurai, , Madurai Kamaraj University
+816, The Standard Fireworks Rajarathinam College for Women (Autonomous), Virudhunagar, , Madurai Kamaraj University
+817, Theni College of Arts and Science, Theni, , Madurai Kamaraj University
+818, Thiagarajar College (Autonomous), Madurai, , Madurai Kamaraj University
+819, Udaya College of Arts and Science, Kanyakumari, , Madurai Kamaraj University
+820, V.H.N.S.N. College, Virudhunagar, , Madurai Kamaraj University
+821, V.P.M.M. Arts and Science College for Women, Virudhunagar, , Madurai Kamaraj University
+822, V.V.V. College for Women, Virudhunagar, , Madurai Kamaraj University
+823, Vivekanandha College (Autonomous), Madurai, , Madurai Kamaraj University
+824, Yadava College, Madurai, , Madurai Kamaraj University
+825, A.P.C. Mahalakshmi College for Women, Tuticorin, , Manonmaniam Sundaranar University
+826, Aditanar College of Arts and Science, Tuticorin, , Manonmaniam Sundaranar University
+827, Ambai Arts College, Tirunelveli, , Manonmaniam Sundaranar University
+828, Annai Hajira Women's College, Tirunelveli, , Manonmaniam Sundaranar University
+829, Annai Veilankanni College, Kanyakumari, , Manonmaniam Sundaranar University
+830, Arignar Anna College, Kanyakumari, , Manonmaniam Sundaranar University
+831, Arulmigu Panruti Ayyan Arts and Science College, Tuticorin, , Manonmaniam Sundaranar University
+832, Bishop Calldowell College, Tuticorin, , Manonmaniam Sundaranar University
+833, C.S.I. Jeyaraj Annapackiam College, Tirunelveli, , Manonmaniam Sundaranar University
+834, G.V.N. College, Tuticorin, , Manonmaniam Sundaranar University
+835, Govindammal Adithanar Women's College, Tuticorin, , Manonmaniam Sundaranar University
+836, Govt. Arts College for Women, Tirunelveli, , Manonmaniam Sundaranar University
+837, Holy Cross College, Kanyakumari, , Manonmaniam Sundaranar University
+838, Holy Cross Home Science College for Women, Tuticorin, , Manonmaniam Sundaranar University
+839, K.R. Arts and Science College, Tuticorin, , Manonmaniam Sundaranar University
+840, Kamaraj College, Tuticorin, , Manonmaniam Sundaranar University
+841, Lakshmipuram College of Arts and Science, Kanyakumari, , Manonmaniam Sundaranar University
+842, Malankara Catholic College, Kanyakumari, , Manonmaniam Sundaranar University
+843, Manonmaniam Sundarnar University, Tirunelveli, , Manonmaniam Sundaranar University
+844, Muslim Arts College, Kanyakumari, , Manonmaniam Sundaranar University
+845, Nazareth Margochis College, Tuticorin, , Manonmaniam Sundaranar University
+846, Nesamony Memorial Christian College, Kanyakumari, , Manonmaniam Sundaranar University
+847, Noorl Islam Arts and Science College, Kanyakumari, , Manonmaniam Sundaranar University
+848, Pasumbon Muthuramalinga Thevar College, Tirunelveli, , Manonmaniam Sundaranar University
+849, Perarignar Anna College, Tirunelveli, , Manonmaniam Sundaranar University
+850, Pioneer Kumarasamy College, Kanyakumari, , Manonmaniam Sundaranar University
+851, Pope's College, Tuticorin, , Manonmaniam Sundaranar University
+852, Rose Mary Arts and Science College, Tirunelveli, , Manonmaniam Sundaranar University
+853, S.S. Duraisamy Nadar Maariammal College, Tuticorin, , Manonmaniam Sundaranar University
+854, S.T. Hindu College, Kanyakumari, , Manonmaniam Sundaranar University
+855, Sadakathullah Appa College, Tirunelveli, , Manonmaniam Sundaranar University
+856, Sarah Tucker College, Tirunelveli, , Manonmaniam Sundaranar University
+857, Sardar Raja Arts College, Tirunelveli, , Manonmaniam Sundaranar University
+858, Sattanatha Karaiyalar College, Tirunelveli, , Manonmaniam Sundaranar University
+859, Scott Christian College, Kanyakumari, , Manonmaniam Sundaranar University
+860, Sivanthi Adithanar College, Kanyakumari, , Manonmaniam Sundaranar University
+861, Sree Ayyappa College for Women, Kanyakumari, , Manonmaniam Sundaranar University
+862, Sree Devi Kumari Women's College, Kanyakumari, , Manonmaniam Sundaranar University
+863, Sri K.G.S. Arts College, Tuticorin, , Manonmaniam Sundaranar University
+864, Sri Paramakalyani College, Tirunelveli, , Manonmaniam Sundaranar University
+865, Sri Parasakthi Women's College, Tirunelveli, , Manonmaniam Sundaranar University
+866, Sri Saradha Women's College, Tirunelveli, , Manonmaniam Sundaranar University
+867, St. John's College, Tirunelveli, , Manonmaniam Sundaranar University
+868, St. Jude's College, Kanyakumari, , Manonmaniam Sundaranar University
+869, St. Mary's College, Tuticorin, , Manonmaniam Sundaranar University
+870, St. Xavier's College, Tirunelveli, , Manonmaniam Sundaranar University
+871, T.D.M.N.S. College, Tirunelveli, , Manonmaniam Sundaranar University
+872, The M.D.T. Hindu College, Tirunelveli, , Manonmaniam Sundaranar University
+873, Thiruvalluvar College, Tirunelveli, , Manonmaniam Sundaranar University
+874, V.O. Chidambaram College, Tuticorin, , Manonmaniam Sundaranar University
+875, V.T.M College of Arts and Science, Kanyakumari, , Manonmaniam Sundaranar University
+876, Vivekananda College, Kanyakumari, , Manonmaniam Sundaranar University
+877, Wavoo Wajeeha Women's College, Tuticorin, , Manonmaniam Sundaranar University
+878, Women's Christian College, Kanyakumari, , Manonmaniam Sundaranar University
+879, A.A. Govt. Arts College, Salem, , Periyar University
+880, A.A. Govt. Arts College for Men, Namakkal, , Periyar University
+881, A.E.T. College, Salem, , Periyar University
+882, A.V.S. College of Arts and Science, Salem, , Periyar University
+883, Alamelu Angappan College for Women, Namakkal, , Periyar University
+884, Anbu Arts and Science College, Namakkal, , Periyar University
+885, Arignar Anna College (Arts and Science), Krishnagiri, , Periyar University
+886, Arignar Anna Government Arts College for Men, Namakkal, , Periyar University
+887, Attur Arts and Science College, Salem, , Periyar University
+888, Bharathiyar Arts and Science College for Women, Salem, , Periyar University
+889, Don Bosco College, Dharmapuri, , Periyar University
+890, Gem Gates Arts and Science College, Salem, , Periyar University
+891, Govt Arts College for Women, Krishnagiri, , Periyar University
+892, Govt. Arts and Science College for Women, Dharmapuri, , Periyar University
+893, Govt. Arts College, Dharmapuri, , Periyar University
+894, Govt. Arts College, Salem, , Periyar University
+895, Govt. Arts College for Men, Krishnagiri, , Periyar University
+896, Govt. Arts College for Women, Salem, , Periyar University
+897, Govt. Arts College for Women, Krishnagiri, , Periyar University
+898, Harur Muthu Arts and Science College for Women, Dharmapuri, , Periyar University
+899, J.K.K. Nataraja College of Arts and Science, Namakkal, , Periyar University
+900, Jairam Arts and Science College, Salem, , Periyar University
+901, K.S.R. College of Arts and Science, Namakkal, , Periyar University
+902, Kamadhenu College of Arts and Science, Dharmapuri, , Periyar University
+903, Kandaswami Kandar's College, Namakkal, , Periyar University
+904, Kings College of Arts and Science for Women, Namakkal, , Periyar University
+905, M.G.R College of Arts and Science, Krishnagiri, , Periyar University
+906, M.G.R. College, Hosur, Dharmapuri, , Periyar University
+907, Mahendra College of Arts and Science, Namakkal, , Periyar University
+908, Muthayammal College of Arts and Science, Namakkal, , Periyar University
+909, N.K.R. Government Arts College for Women, Namakkal, , Periyar University
+910, P.G.P. College of Arts and Science, Namakkal, , Periyar University
+911, P.M.P. College of Arts and Science, Dharmapuri, , Periyar University
+912, Paavendhar College of Arts and Science, Salem, , Periyar University
+913, Pachamuthu Arts and Science Women's College, Dharmapuri, , Periyar University
+914, Padmavani College of Arts and Science for Women, Salem, , Periyar University
+915, Pee Gee College of Arts and Science, Dharmapuri, , Periyar University
+916, Periyar University College of Arts and Science, Dharmapuri, , Periyar University
+917, Rabindharanath Tagore College of Arts and Science for Women, Salem, , Periyar University
+918, S.S.M. College of Arts and Science, Namakkal, , Periyar University
+919, Salem Sowdeswari College, Salem, , Periyar University
+920, Selvam Arts and Science College, Namakkal, , Periyar University
+921, Sengunthar College of Arts and Science, Namakkal, , Periyar University
+922, Sri Balamurugan Arts and Science College, Salem, , Periyar University
+923, Sri Ganesh College of Arts and Science, Salem, , Periyar University
+924, Sri Kandhan College of Arts and Science, Namakkal, , Periyar University
+925, Sri Sakthi Kailash College of Women, Salem, , Periyar University
+926, Sri Sarada College for Women (Autonomous), Salem, , Periyar University
+927, Sri Vidhya Mandir Arts and Science College, Dharmapuri, , Periyar University
+928, St. Joseph's College of Arts and Science for Women, Dharmapuri, , Periyar University
+929, Subramaniyam College of Arts and Science, Namakkal, , Periyar University
+930, Thiruvalluvar Govt. Arts College, Namakkal, , Periyar University
+931, Trinity College for Women, Namakkal, , Periyar University
+932, Vivekanandha College for Women, Namakkal, , Periyar University
+933, Vysya College, Salem, , Periyar University
+
+Tamil Nadu Dr. M.G.R. Medical University
+
+A.J. College of Pharmacy, Chennai Adhi Bhagawan College of Pharmacy, Cheyyar, Tiruvanamalai Adhiparasakhthi College of Pharmacy, Cheyyar, Tiruvanamalai Adhiparasakthi College of Nursing, Melmaruvathur, Kanchipuram Adhiparasakthi College of Physiotherapy, Melmaruvathur, Kanchipuram Adhiparasakthi Dental College and Hospital, Melmaruvathur, Kanchipuram Akila Thiruvithamcore Siddha Vaidhya Sangam, Kanyakumari Al-Ameen College of Nursing, Tiruvannamalai, Tiruvanamalai Annai J.K.K. Sampoorani Ammal College of Nursing, Komarapalayam, Namakkal Annai J.K.K. Sampoorani Ammal College of Pharmacy, Namakkal Annai Meenakshi College of Nursing, Coimbatore Annai Therasa Institute of Paramedical Sciences, Salem Annai Veilankanni Pharmacy College, Chennai Annammal College of Nursing, Kuzhithurai, Kanyakumari Annasamy Rajammal College of Nursing, Tirunelveli Antarctica College of Pharmacy, Tirunelveli Apollo College of Nursing, Chennai Aravind Eye Hospitals and PG Institute of Ophthalmology, Madurai Arulmigu Kalasalingam College of Pharmacy, Krishnankoil, Virudhunagar Best Dental Science College, Melur, Madurai Bharani Swathi College of Physiotherapy, Chennai Billroth College of Nursing, Chennai Bishop's College of Nursing, Erode C.L. Baid Metha College of Pharmacy, Chennai C.S. Jain College of Pharmacy, Shrimushnam, Cuddalore C.S.I. College of Dental Sciences and Research, Madurai C.S.I. Jayaraj Annapackiam College of Nursing, Madurai Cancer Institute, College of Oncological Sciences, Chennai Chengalpattu Medical College, Chengalpattu, Kanchipuram Cheran College of Pharmacy, Coimbatore Cheran's College of Nursing, Coimbatore Cheran's College of Physiotherapy, Coimbatore Child Jesus College of Nursing, Trichy Chithirai College of Nursing, Madurai Christian College of Nursing, Kanyakumari Christian College of Physiotherapy, Colachel, Kanyakumari Christian Medical College, Vellore Coimbatore College of Pharmacy, Erode Coimbatore Medical College, Coimbatore Coimbatore Medical College, Coimbatore College of Allied Medical Sciences, Madurai College of Nursing Vel R.S. Medical College, Chennai College of Nursing, Christian Medical College, Vellore College of Nursing, Madras Medical College, Chennai College of Nursing, Madurai Medical College, Madurai College of Occupational Therapy, Christian Medical College, Vellore College of Occupational Therapy, J.K.K. Munirajah Medical Research Foundation, Namakkal College of Pharmacy, Madras Medical College, Chennai College of Pharmacy, Madurai Medical College, Madurai College of Physiotherapy, Christian Medical College, Vellore College of Physiotherapy, J.K.K. Munirajah Medical Research Foundation, Komarapalayam, Namakkal College of Physiotherapy, Sri Ramakrishna Institute of Paramedical Sciences, Coimbatore College of Physiotherapy, Trinity Mission and Medical Foundation, Madurai College of Physiotherapy, Vivekananda of Medical Science and Research, Tiruchengode, Namakkal Department of Pharmacy, Annamalai University, Cuddalore Devendrar College of Physiotherapy, Tirunelveli Dhanalakshmi Srinivasan College of Nursing, Perambalur Dhanvanthri College of Nursing, Erode Dharma Ayurveda Medical Research Institution, Sriperambudur, Kanchipuram Doctor's College of Nursing, Pudukottai Dr. A.L.M. PG Institute of Basic Medical Sciences, Chennai Dr. G. Sakunthala College of Nursing, Trichy Dr. Hahnemann Homoeopathy Medical College and Research Centre, Rasipuram, Namakkal Dr. Mahalingam Institute of Paramedical Sciences and Research, Erode E.S. College of Nursing, Villupuram Edayathangudy G.S. Pillay College of Pharmacy, Nagapattinam Ellen College of Nursing, Coimbatore Fathima College of Pharmacy, Kadayanallur, Tirunelveli Global College of Nursing, Kanyakumari Government Dharamapuri Medical College, Dharmapuri Govt. College of Physiotherapy, tr, Trichy Govt. Homoeopathic Medical College and Hospital, Tirumangalam, Madurai Govt. Institute of Rehabilitation Medicine, Chennai Govt. Siddha Medical College, Tirunelveli Govt. Siddha Medical College, Chennai Indira College of Nursing, Pandur, Tiruvallur Indira College of Nursing, Trichy Institute of Ophthalmology, Joseph Eye Hospital, Trichy J.K. College of Nursing and Paramedicals, Coimbatore J.K. College of Nursing and Paramedicals, Coimbatore J.K.K. Natarajah College of Pharmacy, Komarapalayam, Namakkal J.K.K. Nattraja Dental College, Komarapalayam, Erode J.S.S. College of Pharmacy, Udagamandalam, Nilgiris J.V. College of Nursing, Chennai Jainee College of Nursing, Dindigul Jaya College of Paramedical Science, Thiruninravur, Tiruvallur Jaya College of Paramedical Sciences, Tiruninravur, Tiruvallur K.A.P. Viswanathan Govt. Medical College, Trichy K.G. College of Nursing, Coimbatore K.G. College of Physiotherapy, Coimbatore K.K. College of Pharmacy, Chennai K.M. College of Pharmacy, Madurai K.M.C.H. College of Nursing, Coimbatore K.M.C.H. College of Occupational Therapy, Coimbatore K.M.C.H. College of Pharmacy, Coimbatore K.M.C.H. College of Physiotherapy, Coimbatore K.M.R. College of Pharmacy, Perundurai, Erode K.R.S. Pallavan College of Pharmacy, Sriperambudur, Kanchipuram K.S.R. Institute of Dental Science and Research, Tiruchengode, Namakkal Kamalakshi Pandurangan College of Pharmacy, Tiruvannamalai, Tiruvanamalai Kamalam Viswanathan College of Physiotherapy, Trichy Kanyakumari Govt. Medical College, Kanyakumari Karpaga Vinayaga College of Nursing, Pudukottai Karpaga Vinayaga Institute of Dental Sciences, Madhuranthagam, Kanchipuram Karpagam College of Pharmacy, Coimbatore Karpagam Nursing College, Coimbatore Kavimony College of Physiotherapy, Coimbatore Keerai Thamil Selvan College of Nursing, Pudukottai Kilpauk Medical College, Chennai Kovai Kongunadu College of Nursing, Coimbatore Laxmi Narayana College of Pharmacy, Dharmapuri M.A. Chidambaram College of Nursing, Chennai M.M.M. College of Nursing, Chennai Madha College of Nursing, Chennai Madha College of Physiotherapy, Chennai Madha Dental College and Hospital, Chennai Madras College of Pharmacy, Chennai Madras Medical College and Research Institute, Chennai Madurai Medical College, Madurai Maharaja College of Physiotherapy, Chennai Maharaji College of Pharmacy, Chennai Mannai Narayanswamy Paramedical College, Thanjavur Matha College of Nursing, Sivagangai Matha College of Physiotherapy, Manamadurai, Sivagangai Mayor Radhakrishnan College of Pharmacy, Cuddalore Meenakshi College of Occupational Therapy, Chennai Meenakshi University (Meenakshi College of Nursing), Chennai Meenakshi University (Meenakshi College of Physiotherapy), Chennai Melmaruvathur Adiparasakthi Institute of Medical Sciences, Melmaruvathur, Kanchipuram Miot College of Nursing, Chennai Mohamed Sathak A.J. College of Nursing, Chennai Mohammed Sathak A.J. College of Physiotherapy, Chennai Mohan Kumaramangalam Govt. Medical College, Salem Mookambigai College of Physiotherapy, Chennai N.M.S. College of Pharmacy, Kanyakumari Nadar Mahajana Sangam College of Pharmacy, Thiruvattar, Kanyakumari Nandha College of Nursing, Erode Nandha College of Pharmacy, Erode Nandha College of Physiotherapy, Erode National College of Pharmacy, Thiruninravur, Tiruvallur National Institute of Siddha, Chennai Nehru Nursing College, Tirunelveli Nethra Homoeopathy Medical College, Coimbatore Nightingale Institute of Nursing Education, Coimbatore Omayal Achi College of Nursing, Chennai Our Lady of Health College of Nursing, Thanjavur P.G.P. College of Nursing and Research, Namakkal P.G.P. College of Pharmaceutical Science and Research Institute, Villipalayam, Namakkal P.P.G. College of Nursing, Coimbatore P.P.G. College of Physiotherapy, Coimbatore P.S. College of Nursing, Kanyakumari P.S.G. College of Nursing, Coimbatore P.S.G. College of Paramedical Sciences, Coimbatore P.S.G. College of Pharmacy, Coimbatore P.S.G. Institute of Medical Sciences and Research, Coimbatore Padmasree College of Nursing, Kanchipuram Padmavathy College of Nursing, Dharmapuri Padmavathy College of Pharmacy, Dharmapuri Padmavathy College of Physiotherapy, Dharmapuri Pallavan College of Pharmacy, Kanchipuram Pandyan College of Pharmacy, Madurai Pearl Peace Medical Mission, Tirunelveli Periyar College of Pharmaceutical Sciences for Girls, Trichy Pioneer College of Physiotherapy, Ramnad Priyadarshini Dental College and Hospital, Thiruvallur, Tiruvallur R.V.S. Dental College and Hospital, Sulur, Coimbatore Rabindranath Tagore College of Nursing for Women, Sankari, Salem Ragas Dental College and Hospital, Chennai Rajah Muthiah Dental College and Hospital, Chidambaram, Cuddalore Rajalakshmi College of Nursing, Sriperambudur, Kanchipuram Rajas Dental College, Vadakangulam, Tirunelveli Rass Academy College of Nursing, Sivagangai Right College of Nursing, Chennai Royal College of Pharmacy and Paramedical Sciences, Coimbatore RVS Ayurveda College, Coimbatore RVS Homoeopathy Medical College, Sulur, Coimbatore S. Chattanatha Karayalar College of Pharmacy, Tenkasi, Tirunelveli S.A. Raja College of Pharmacy, Tirunelveli Sacred Heart Nursing College, Madurai Sakthi College of Nursing, Karur Sakthi College of Nursing, Oddanchatiram, Dindigul Sankara Nethralaya Medical Research Foundation, Chennai Santhosh College of Occupational Therapy, Chennai Sara College of Nursing, Dharapuram, Erode Saradha Krishna Homoeopathy Medical College, Kanyakumari Saveetha University (Saveetha Dental College and Hospital), Chennai Servite College of Nursing, Trichy Shanmuga College of Nursing, Salem Shanmugha College of Physiotherapy, Salem Sharmila College of Nursing, Chennai Shenbagha College of Nursing, Chennai Shivparvathi Mandradiar Institute of Health Sciences, Erode Shoba College of Pharmacy, Erode Sre Sakthimayeil Institute of Nursing and Research, Komarapalayam, Namakkal Sree Abirami College of Nursing, Coimbatore Sree Krishna College of Pharmacy, Cuddalore Sree Mookambika Institute of Dental Sciences, Kanyakumari Sree Mookambika Institute of Medical Sciences, Kanyakumari Sree Shakthi Mayeil Institute of Research and Science, Tiruchengode, Namakkal Sri Aurobindo College of Nursing, Karur Sri Gokulam College of Nursing, Salem Sri Gokulam Institute of Paramedical Sciences, Salem Sri Gokulam Institute of Paramedical Sciences, Salem Sri K. Ramachandra Naidu College of Nursing, Tirunelveli Sri Kumragurubarar College of Pharmacy, Thanjavur Sri Mookambika College of Nursing, Kanyakumari Sri Narayani College of Nursing, Vellore Sri Paspo College of Nursing, Dharmapuri Sri Ramachandra College of Pharmacy, Vedaraniam, Nagapattinam Sri Ramakrishna Dental College, Coimbatore Sri Ramakrishna Institute of Paramedical Sciences, Coimbatore Sri Ramakrishna Institute of Paramedical Sciences, Coimbatore Sri Rangapoopathi College of Nursing, Villupuram Sri Sairam Ayurveda Medical College and Research Center, Chennai Sri Sairam Homoeopathy Medical College, Chennai Sri Sankar College of Ayurveda, Trichy Sri Santhoshi College of Nursing, Maduranthakam, Kanchipuram Sri Venkateswara Dental College and Hospital, Chennai, Kanchipuram Sri Vijay Vidhyalaya College of Nursing, Dharmapuri St. John's College of Nursing, Vellore St. Xavier's Catholic College of Nursing, Kanyakumari Stanley Medical College, Chennai Subbarayalu College of Pharmacy, Coimbatore Suran College of Nursing, Srivilliputtur, Virudhunagar Swami Vivekananda College of Nursing, Dharmapuri Swamy Vivekanandha College of Pharmacy, Tiruchengode, Namakkal Tagore Dental College and Hospital, Chennai Tamil Nadu Homoeopathy Medical College, Salem Tamilnadu Govt. Dental College, Chennai Tamilnadu Paramedical Institutions College of Physiotherapy, Chennai Texcity College of Nursing, Coimbatore Texcity College of Pharmacy, Coimbatore Thanjavur Medical College, Thanjavur Thanjavur Medical Collegep, Thanjavur Thanthai Roever College of Nursing, Perambalur Thanthai Rover College of Pharmacy, Perambalur Thanthai Rover College of Physiotherapy, Trichy Thasiah College of Nursing, Kanyakumari The Erode College of Pharmacy, Erode The Institute of Road Transport Perundurai Medical College, Perundurai, Erode The Venkatramana Ayurveda College, Chennai Theni Government Medical College, Theni Thoothukudi Govt. Medical College, Tuticorin Tirunelveli Medical College, Tirunelveli Tiruppur Kalaimagal College of Pharmacy, Tiruppur, Tirupur Tiruvarur Medical College, Tiruvarur U.C.A. College of Physiotherapy, Chennai Ultra College of Pharmacy, Madurai Vel R.S. Medical College, College of Physiotherapy, Chennai Vellalar College of Nursing, Erode Vellore Govt. Medical College, Vellore Velumailu Siddha Medical College, Sriperambudur, Kanchipuram Venkateswara Homoeopathy Medical College, Chennai Vignesh Nursing College, Tiruvannamalai, Tiruvanamalai Villupuram Medical College, Villupuram Vivekananda College of Nursing, Tiruchengode, Namakkal Vivekanandha Dental College for Women, Tiruchengode, Namakkal White Memorial College of Nursing, Veeyannoor, Kanyakumari White Memorial College of Physiotherapy, Kanyakumari White Memorial Homoeopathic Medical College, Kanyakumari
+
+Tamil Nadu Teachers Education University
+
+A.G. College of Education, Tirupur A.K.T. Memorial College of Education, Kallakurichi, Villupuram A.M.E.S. College of Education, Ambur, Vellore A.R.R. College of Education, Kumbakonam, Thanjavur A.R.R. College of Education for Women, Kumbakonam, Thanjavur A.S. College of Education, Madurai A.V.S. College of Education, Salem Aasee College of Education, Karur Adaikalamatha Institute of Teacher Education, Thanjavur Adharsh Vidhyalaya College of Education, Bhavani, Erode Adhiparasakthi College of Education, Vellore Adhiyamaan College of Education, Hosur, Dharmapuri Agra College of Education, Mayiladuthurai, Nagapattinam All Angels College of Education, Tiruvannamalai, Tiruvanamalai All Saints College of Education, Kanyakumari Alwin College of Education, Chennai Amala College of Education, Idappadi, Salem Amerda Vikas College of Education, Salem Amirtham College of Education, Walajabad, Kanchipuram Amman College of Education, Dindigul Amrita College of Education, Tirupattur, Vellore Amritalaya College of Education, Jolarpet, Vellore Angels College of Education, Namakkal Anna Vinayagar College of Education, Kanyakumari Annai College of Education, Kumbakonam, Thanjavur Annai College of Education, Salem Annai College of Education, Dharmapuri Annai Fathima College of Education, Kumbakonam, Thanjavur Annai Fathima Teacher Training College for Women, Dharapuram, Erode Annai India College of Education, Dharmapuri Annai J.K.K. Sampoorani Ammal College of Education, Gobi, Erode Annai Madha College of Education, Tittakudi, Cuddalore Annai Mathammal Sheela College of Education, Namakkal Annai Meenakshi College of Education, Sivagiri, Tirunelveli Annai Terasa College of Education, Salem Annai Terasa College of Education, Karaikudi, Sivagangai Annai Theresa College of Education for Women, Tiruvannamalai, Tiruvanamalai Annai Veilankannis College of Education, Chengalpattu, Chennai Annamalaiyar College of Education, Tiruvannamalai, Tiruvanamalai Annammal College of Education for Women, Tuticorin Ansaldo College of Education, Tiruvannamalai, Tiruvanamalai Appollo College of Education, Sriperambudur, Kanchipuram Arasan Ganesan College of Education, Sivakasi, Virudhunagar Arcot Sri Mahaalakshmi Womens College of Education, Vellore Arputha Jothi College of Teacher Education, Namakkal Arulmigu Kalasalingam College of Education, Srivilliputtur, Virudhunagar Arulmigu Sri Jothi Womens College of Education, Panruti, Cuddalore Arumugam Nallamani College of Education, Madurai Arumugam Pillai Seethai Ammal College of Education, Tirupattur, Sivagangai Arun College of Education, Vallam, Thanjavur Arunachala College of Education, Tiruvannamalai, Tiruvanamalai Arunai College of Education, Tiruvannamalai, Tiruvanamalai Auxilium College of Education, Pudukkottai, Pudukottai Avinashilingam University for Women (Avinashilingam Institute for Home Science and Higher Education for Women), Coimbatore Avinasi Gounder Mariammal College of Education, Erode B.K.R. College of Education, Tiruttani, Tiruvallur B.T.K. College of Education, Pudukkottai, Pudukottai B.T.K. College of Education, Pollachi, Coimbatore Balaji College of Education, Chennai Best College of Education, Bhavani, Erode Bethany Navajeevan College of Education, Kanyakumari Bethesda College of Education, Kanyakumari Bharat College of Education, Thanjavur Bharat College of Education, Vellore Bharath College of Education, Tiruvarur Bharathi College of Education, Villupuram Bharathi College of Education, Coimbatore Bharathi Vidyalaya College of Education, Pudukkottai, Pudukottai Bharathiyar College of Education, Attur, Salem Bharathiyar College of Education, Tindivanam, Villupuram Bishop Appasamay College of Education, Coimbatore Bishop Packiam Arokiaswamy College of Education, Alangudi, Pudukottai Blessy College of Education, Chidambaram, Cuddalore Bon Secours College of Education, Thanjavur C.K.S. College of Education, Gudiyattam, Vellore C.M.S College of Education, Coimbatore C.S. Jain College of Education, Cuddalore C.S. Jain College of Physical Education, Cuddalore C.S.I. Bishop Newbigin College of Education, Chennai C.S.I. College of Education, Madurai C.S.I. College of Education, Ramnad Century Foundation College of Education, Tiruppur, Tirupur Chandra Chellappan College of Education, Namakkal Chezhian College of Education, Tiruvannamalai, Tiruvanamalai Chozhan College of Education, Kanchipuram Christ College of Education for Women, Dharmapuri Christ College of Education for Women, Thanjavur Christian College of Education, Kanyakumari Christian College of Education, Rajapalayam, Virudhunagar Christian College of Education, Perambalur Christian College of Physical Education, Nagercoil, Kanyakumari Concord College of Education, Krishnagiri Crescent College of Education for Women, Tiruvannamalai, Tiruvanamalai Crescent College of Education for Women, Madurai D.K.R. College of Education, Aranthangi, Pudukottai D.M.I. College of Education, Kanchipuram D.V.C. College of Education, Cuddalore Devi Venkatachalam College of Education, Vaniyambadi, Vellore Dhanalakshmi Srinivasan College of Education for Women, Perambalur Dhivya College of Education, Tiruvannamalai, Tiruvanamalai District Institute of Education and Training, Lalgudi, Trichy Dr. David Raja and Dr.Chandraleka College of Education, Tirupattur, Vellore Dr. G.R. Damodaran College of Education, Coimbatore Dr. G.U. Pope College of Education, Tuticorin Dr. Meenakshi College of Teacher Education, Chengam, Tiruvanamalai Dr. N.G.P. College of Education, Coimbatore Dr. Nagarathinams College of Education, Salem Dr. Nallini College of Teacher Education, Dharapuram, Erode Dr. Nallini College of Teacher Education, Dharapuram, Erode Dr. R.K. Shanmugam College of Education, Kallakurichi, Villupuram Dr. Rajabather Tagore Women Teachers Training College, Tindivanam, Villupuram Dr. S.N.S. College of Education, Coimbatore Dr. S.R.J. College of Education, Thanjavur Dr. Sivanthi Aditanar College of Education, Tiruchendur, Tuticorin Dr. Vellasamy Nadar College of Education, Thanjavur Durai Murugan College of Education, Vellore Durai Vidhyalakshmi College of Education, Gudiyattam, Vellore E.R.K. College of Education, Dharmapuri E.S. College of Education, Villupuram Eden Garden College of Education, Perambalur Elizabeth College of Education, Perambalur Esenes College of Education, Walajabad, Kanchipuram Esenes Institute of Teacher Education, Walajabad, Kanchipuram Esther College of Education, Namakkal Excel College of Education, Komarapalayam, Namakkal G.E.T. B.Ed. College, Gudiyattam, Vellore G.P. Secondary Teacher Education Training College, Tiruppattur, Vellore G.R. Govindarajulu College of Education, Coimbatore G.R.D. College of Education, Tiruvallur G.V.C. College of Education, Vellore Ganapathy College of Education, Paramakudi, Ramnad Gandhi College of Education, Sathyamangalam, Erode Ganesh College of Education, Salem Gangaa College of Education, Idappadi, Salem Girivasan College of Education, Dharmapuri Gnanamani College of Education, Rasipuram, Namakkal Gojan College of Teacher Education, Chennai Good Shepherd College of Education, Nagercoil, Kanyakumari Good Shepherd Teacher Education Institute, Nagercoil, Kanyakumari Government College of Education, Komarapalayam, Namakkal Government College of Education, Vellore Government College of Education, Pudukottai Government College of Education, Thanjavur Government College of Education for Women, Coimbatore Grace College of Education, Erode Grace College of Education, Vandavasi, Tiruvanamalai H.T.P. College of Education, Attur, Salem Hindusthan College of Education, Coimbatore Holy Cross College of Education, Trichy Holy Trinity College of Education, Kanyakumari Idhayam College of Education, Thuraiyur, Trichy Imayam College of Education, Trichy Immanuel Arasar B.Ed. College, Marthandam, Kanyakumari Indhira College of Education, Tiruvallur Indian College of Education, Katpadi, Vellore Indra Ganesan College of Education, Trichy Institute of Advanced Study in Education, Chennai International College of Education (Women), Tiruvannamalai, Tiruvanamalai J.A.S. College of Education, Coimbatore J.J. College of Education, Trichy J.J. College of Education, Trichy J.J. College of Education, Pudukkottai, Pudukottai J.K. College of Education, Dindigul J.K. College of Education, Aranthangi, Pudukottai J.M.S. College of Education, Vellore J.S.J.V. B.Ed College, Cuddalore J.S.R. College of Education, Udumalpet, Coimbatore Jaanagi Institute of Teacher Education, Palacode, Dharmapuri Jai Sai B.Ed. College of Education, Trichy Jai Sathi College of Education, Palacode, Dharmapuri Jai Sri Venkateswara College of Education, Dharmapuri Jairam College of Education, Karur James College of Education, Kanyakumari Jaya College of Education, Tiruvallur Jayanthi College of Education, Tiruppur, Tirupur Jayashanthi B.Ed College, Bhavani, Erode Jeeneys College of Education, Trichy Jeevan College of Education, Manapparai, Trichy Jeyasuriya Teacher Education and Training College, Villupuram Josephs College of Education, Kanyakumari K.E.C. College of Education, Tiruvannamalai, Tiruvanamalai K.J.N. Educational College, Chennai K.K.S. Mani College of Education, Vellore K.L.N. B.Ed College, Madurai K.M. B.Ed. College, Sivakasi, Virudhunagar K.M. College of Education, Krishnagiri K.M.G. College of Education, Gudiyattam, Vellore K.M.G. College of Education, Pollachi, Coimbatore K.N. Subbaraj Memorial College of Education, Ettayapuram, Tuticorin K.R.P. College of Teacher Education, Namakkal K.S. College of Education, Salem K.S. Maniam College of Education, Namakkal K.S.M. College of Education for Women, Madurai K.S.R. College of Education, Tiruchengode, Namakkal Kalai Baharathi B.Ed College, Vellore Kalaimagal College of Education, Vellore Kalaimahal College of Education, Nagapatinam, Nagapattinam Kalaivani College of Education, Coimbatore Kaliammal College of Education, Karur Kalvithanthai A.K.R. Sourashtra Teachers College, Madurai Kamala College of Education, Villupuram Kamaraj College of Education, Chidambaram, Cuddalore Kamarajar College of Education, Salem Kamarajar College of Education, Namakkal Kanchi College of Teacher Education, Kanchipuram Kandhaswamy College of Education, Komarapalayam, Namakkal Kapi College of Education, Madurai Kapi Womens College of Education, Madurai Karpagam College of Education, Coimbatore Kasthuriba Gandhi College of Education, Rasipuram, Namakkal Kasturi College of Education, Coimbatore Kathir College of Education, Coimbatore Keerai Thaml Selvan College of Education for Women, Pudukkottai, Pudukottai Kenis College of Education for Women, Tirunelveli Kennedy College of Education, Vaniyambadi, Vellore Kevi Womens College of Education, Salem King College of Education, Namakkal Kongunaadu College of Education for Women, Mamangam, Salem Kongunadu College of Education, Namakkal Kongunadu College of Education, Thottiam, Trichy Kootalumoodu Arulmigu Bhadreswari College of Education, Kanyakumari Koviloor Andavar College of Physical Education and Sports Science, Karaikudi, Sivagangai Krishna College of Education, Krishnagiri Krishna College of Education for Women, Tiruchengode, Namakkal Kumutha College of Education, Erode Lady Willingdon Institute of Advanced Study in Education, Chennai Lakshmi Ammal College of Education, Chengalpattu, Kanchipuram Lakshmi Ammal College of Education for Women, Dharmapuri Lakshmi College of Education, Dindigul Lisieux College of Education, Coimbatore M. Durai College of Education, Vandavasi, Tiruvanamalai M. Kumarasamy College of Education, Karur M. Shanthi College of Education, Namakkal M.E.T. College of Education, Kanyakumari M.E.T. College of Education, Nagercoil, Kanyakumari M.S.E.S. College of Education, Karur M.V.M. Chellamuthu Alagu Rathinam College of Education, Dindigul Madha College of Education, Chennai Maharaja College of Education, Perundurai, Erode Maharani College of Education, Dharapuram, Erode Mahathma College of Education, Trichy Mahatma College of Education, Illuppur, Pudukottai Mahatma Gandhi College of Education, Sankarankovil, Tirunelveli Mahendhira College of Education, Tiruchengode, Namakkal Mahendra College of Education, Valappadi, Salem Mandradiar College of Education, Erode `, Erode Mangalam College of Education, Bhavani, Erode Mangayarkarasi College of Education, Madurai Mar Chrysostom College of Education, Kanyakumari Mariamman College of Education, Trichy Marudupandiyar College of Education, Vallam, Thanjavur Maruthi College of Education, Attur, Salem Mass College of Education, Kumbakonam, Thanjavur Matha College of Teacher Education, Manamadurai, Sivagangai Measi College of Education, Chennai Measi School of Education, Chennai Meenakshi B.Ed College, Dindigul Meenakshi Ramaswamy College of Education, Perambalur Meera College of Education, Sholinghur, Vellore Meston College of Education (Autonomous), Chennai Michael Job Memorial College of Education for Girl, Coimbatore Mohamed Sathak Teacher Training College, Chengalpattu, Kanchipuram Mother College of Education, Villupuram Mother Terasa College of Education for Women, Pudukottai Mother Terasa College of Teacher Education, Pudukottai Mother Teresa College of Education, Palani, Dindigul Muna Institute of Education, Parangipettai, Cuddalore Muslim College of Education, Kanyakumari N.D.M. College of Education, Vellore N.K.T. National College of Education for Women, Chennai N.V.K.S.D. College of Education, Kanyakumari Nachiyarammal College of Education, Kovilpatti, Tuticorin Nadar Saraswathi College of Teacher Education, Theni Nagai College of Education, Nagapatinam, Nagapattinam Naina Mohamed College of Education, Aranthangi, Pudukottai Nairs College of Education, Coimbatore Nandha College of Education, Erode Narendar College of Education, Trichy Natham P.R. College of Education, Natham, Dindigul National College of Education, Panruti, Cuddalore Nazareth College of Education for Women, Chennai New Ideal College of Education, Srirangam, Trichy New Millennium College of Education, Cuddalore New River Elementary Teacher Education, Karunguzhi, Kanchipuram O.P.R. Memorial College of Education, Vadalur, Cuddalore Om Shanti College of Education, Kanchipuram Our Lady College of Education, Chennai Oxford College of Education, Trichy P.A. College of Education, Pollachi, Coimbatore P.D. Rajan College of Education, Dharmapuri P.G.P. College of Education, Namakkal P.K.D. College of Education, Pollachi, Coimbatore P.P.G. College of Education, Coimbatore P.S.G. College of Education, Sankari, Salem P.S.G. Ponnammal College of Education, Kangeayam, Erode P.S.N. College of Education, Palayamkottai, Tirunelveli P.S.N.L. College of Education, Sattur, Virudhunagar P.S.R. College of Education, Sivakasi, Virudhunagar P.S.V. College of Education, Krishnagiri Pachamuthu College of Education, Dharmapuri Padmashree College of Education, Kangeayam, Erode Padmavani College of Education, Salem Padmavathi College of Education, Chennai Paramveer College of Education, Dharmapuri Parasakthi College of Education, Peraiyur, Madurai Park College of Education, Kaniyur, Coimbatore Paspo College of Education, Dharmapuri Paulsons Teachers Training College, Vanur, Villupuram Peace College of Education, Dindigul Penial Rural College of Education, Natham, Dindigul PET College of Teacher Education, Vallioor, Tirunelveli Ponjesly College of Education, Nagercoil, Kanyakumari Ponkaliamman College of Education, Karur Ponmari College of Education, Pudukottai Ponnaiyah Ramajayam College of Education, Thanjavur Ponnusamy Nadar College of Education, Chennai Prime College of Education, Kilvelur, Nagapattinam Prof. S.A. College of Education, Chennai Punitha Ohm College of Education, Kovilpatti, Tuticorin Punitha Valanar College of Education, Dindigul Puratchi Thalaivar Dr. M.G.R. College of Education, Ramanathapuram, Ramnad R.D.B. College of Education, Papanasam, Thanjavur R.G. Pattammal Govindarajan Teacher Education School, Kumbakonam, Thanjavur R.K. Samy College of Education, Ramanathapuram, Ramnad R.K.R. College of Education, Udumalpet, Coimbatore R.M.P. C.S.I. P.S.K. Rajaratnam Memorial College of Education, Tuticorin R.V.S. College of Education, Coimbatore R.V.S. College of Education, Dindigul Raadhaa College of Education, Dharmapuri Rabindranath Tagore College of Education for Women, Sankari, Salem Ragavendra College of Education, Sathyamangalam, Erode Rainbow College of Education, Namakkal Raj College of Education, Madurai Raja Desingh College of Education, Gingee, Villupuram Rajaji College of Education, Chennai Rajalakshmi College of Education, Chennai Rajapalayam Deivanai Ammal College of Education, Namakkal Rajas College of Education, Vadakangulam, Tirunelveli Rajiv Gandhi College of Education, Krishnagiri Ramachandira College of Education, Vedaraniam, Nagapattinam Ramakrishnan Chandra College of Education, Cumbum, Theni Rangapoopathi College of Education, Gingee, Villupuram Rangaswamy College of Education, Chennai Rasama College of Education, Karur Rasi College of Education, Rasipuram, Namakkal Rev. John Thomas College of Education for Women, Meignanapuram, Madurai Royal College of Education, Thirukkialukundram, Kanchipuram Royal College of Education, Madurai Royal College of Education, Krishnagiri Ruben College of Education, Kanyakumari Ruby College of Preceptors, Madurai Rukmani College of Education, Kadayanallur, Tirunelveli S. Preethi Teachers Training College, Sivagangai S. Veerasamy Chettiar College of Education, Puliangudi, Tirunelveli S. Veerasamy Chettiar College of Education, Sivagiri, Tirunelveli S. Veerasamy Chettiar Institute of Teacher Education, Puliangudi, Tirunelveli S.A.S. College of Education, Trichy S.B.G. Sanskrit Mission B.Ed. College, Trichy S.K.B. College of Education, Tiruvallur S.K.T. College of Education, Nagapatinam, Nagapattinam S.R.M. College of Education, Ariyalur, Perambalur S.R.M. College of Education, Vaniyambadi, Vellore S.R.P. College of Education, Rasipuram, Namakkal S.T. Hindu College, Nagercoil, Kanyakumari S.T.E.T. College of Education for Women, Mannargudi, Tiruvarur S.V.I. College of Education, Trichy S.V.S. College of Education, Pudukottai Sa-Ya-Gosh College of Education, Dharmapuri Sai Ram College of Education, Sirkali, Nagapattinam Saithanibi College of Education, Gingee, Villupuram Sakthi College of Education, Oddanchatram, Dindigul Sakthi Institute of Teacher Education and Research, Dindigul Samy Institute of Teacher Education, Krishnagiri Sandaravadhanam College of Education, Kattumannar Kovil, Cuddalore Sapthagiri College of Education, Dharmapuri Sarada Ramakrishna College of Education, Vandavasi, Tiruvanamalai Saraswathi College of Education, Tiruvallur Saravana College of Education, Thirukovilur, Villupuram Sasthaa College of Education, Tirumayam, Pudukottai Sasurie College of Education, Perundurai, Erode Sathyasai B.Ed. College, Chennai Scad College of Education, Cheranmahadevi, Tirunelveli Scad Teacher Education Institute, Cheranmahadevi, Tirunelveli Selvam College of Physical Education, Namakkal Sengunthar College of Education, Salem Senthil College of Education, Virudhachalam, Cuddalore Servite College of Education, Karur Seventh Day Adventist College of Education, Vellore Shakthi Kailash College of Education for Women, Salem Sharada College of Education, Salem Shivparvathi Mandradiar College of Education, Palayakottai, Erode Shree College of Education, Namakkal Shree Raghavendra College of Education, Chidambaram, Cuddalore Shree Siridi Sai College of Education, Denkanikota, Dharmapuri Shree Valli College of Education, Erode Shri Bharathi College of Education, Krishnagiri Shri V.P.R. College of Education, Theni Shri Vidya Mandir College of Education, Rasipuram, Namakkal Siddhartha College of Teacher Education, Kanyakumari Siga College of Education, Villupuram Sir Issac Newton College of Education, Nagapatinam, Nagapattinam Sivagamiammal College of Education, Krishnagiri Sivanthi College of Education, Chennai Smt. A.K.D. Sakkaniamma College of Education for Women, Rajapalayam, Virudhunagar Smt. Savithri College of Education, Trichy Sourastra College of Education, Theni Srah College of Education for Women, Erode Sree Arumugam Teacher Training College, Cuddalore Sree Ramakrishna College of Education, Kanyakumari Sree Sastha College of Education, Chennai Sree Vinayaka Vidyalaya College of Education, Bhavani, Erode Sri Amritha College of Education, Namakkal Sri Angalamman College of Education, Thirukkalukundram, Kanchipuram Sri Aurobindo Mira College of Education, Madurai Sri Balaji College of Education, Arani, Tiruvanamalai Sri Balaji College of Education for Women, Cheranmahadevi, Tirunelveli Sri Balaji College of Education for Women, Madurai Sri Balaji Teacher Training College, Srirangam, Trichy Sri Bharathi College of Education, Thirumayam, Pudukottai Sri Ganesh College of Education, Salem Sri Jaya Jothi College of Education, Salem Sri K.Ramachandra Naidu College of Education, Sankarankovil, Tirunelveli Sri Kalaimagal College of Education, Tirupattur, Vellore Sri Krishna College of Education, Arakkonam, Vellore Sri Krishna College of Education, Sriperambudur, Kanchipuram Sri Krishna School of Education, Sriperambudur, Kanchipuram Sri Kubera Vinayagar College of Education, Vedaranyam, Nagapattinam Sri Kumaran B.Ed College, Pattukkottai, Thanjavur Sri Lakshmi College of Education, Perambalur Sri Manickam College of Education, Pudukkottai, Pudukottai Sri Muppudathi Amman College of Education, Alangulam, Tirunelveli Sri Muthukumaran College of Education, Chennai Sri R. Ponnusamy Naidu College of Education, Sivakasi, Virudhunagar Sri Raaja College of Education, Karaikudi, Sivagangai Sri Ragavendra Institute of Education, Dindigul Sri Rajarajeswari College of Education, Trichy Sri Rajeshwari College of Education, Walajapet, Vellore Sri Ram Nallamani Yadava College of Education, Tenkasi, Tirunelveli Sri Ramajayam College of Education, Polur, Tiruvanamalai Sri Ramakrishna College of Education, Perambalur Sri Ramakrishna College of Education, Villupuram Sri Ramakrishna Mission Vidyalaya College of Education, Coimbatore Sri Ranga Chinnammal College of Education, Gingee, Villupuram Sri Ranga Poopathi College of Education, Gingee, Villupuram Sri Renga College of Education, Trichy Sri Renugambal College of Education, Tiruvannamalai, Tiruvanamalai Sri Sarada College of Education, Ulundurpet, Villupuram Sri Sarada College of Education for Women, Tirunelveli Sri Saradha Institute for Teacher Training, Attur, Salem Sri Saraswathi College of Education, Udayarpalayam, Perambalur Sri Saraswathi College of Education, Trichy Sri Sundareswari College of Education, Srivilliputtur, Virudhunagar Sri Thiagarajar College of Education, Madurai Sri Thiyagaraja Institute of Teacher Education, Tiruvarur Sri Vari College of Education, Tiruvannamalai, Tiruvanamalai Sri Vatsa College of Education, Sattur, Virudhunagar Sri Veerasamy Chettiar Institute of Teacher Education, Sivagiri, Tirunelveli Sri Vengalamani Amman B.Ed. College, Namakkal Sri Venkatachalapathy College of Education, Tiruvannamalai, Tiruvanamalai Sri Venkateshwara Vidhyalaya College of Education, Gobi, Erode Sri Venkateswara College of Education, Cheyyar, Tiruvanamalai Sri Venkateswara College of Education, Peravurani, Thanjavur Sri Venkateswara College of Education, Tittakudi, Cuddalore Sri Vidhya Lakshmi Teacher Education Institute, Gudiyattam, Vellore Sri Vidya College of Education, Virudhunagar Sri Vidya Mandir College of Education, Rasipuram, Namakkal Sri Vidya Mandir College of Education, Uthangarai, Dharmapuri Sri Vijay Vidhyalaya College of Education, Dharmapuri Sri Vinayaga College of Education, Ulundurpet, Villupuram Sri Viruthambigai College of Education, Virudhachalam, Cuddalore Sridevi College of Education, Ponneri, Tiruvallur St. Aloysius College of Education, Uthamapalayam, Theni St. Annes B.Ed. College for Women, Periyakulam, Theni St. Basil College of Education for Women, Salem St. Charles College of Education, Madurai St. Christophers College of Education, Chennai St. Gonsalo College of Education, Chennai St. Grace Lilian College of Education, Salem St. Ignatius College of Education, Palayamkottai, Tirunelveli St. Joans College of Education, Krishnagiri St. John De Britto College of Education, Thanjavur St. Johns College of Education, Palayamkottai, Tirunelveli St. Johns College of Education, Tirunelveli St. Johns College of Education for Women, Vellore St. Joseph College of Education, Tirunelveli St. Joseph College of Education, Kanyakumari St. Joseph College of Education, Tirunelveli St. Joseph Womens College of Education, Tirupattur, Vellore St. Josephs College of Education, Udagamandalam, Nilgiris St. Josephs College of Education, Tuticorin St. Justins College of Education for Women, Madurai St. Lgnatius College of Education, Palayamkottai, Tirunelveli St. Marks College of Education, Coimbatore St. Pauls College of Education, Gobi, Erode St. Peters College of Education, Coimbatore St. Stephen College of Teacher Education, Kanyakumari St. Stephens College of Education for Women, Madurai St. Thomas College of Education, Tuticorin St. Xavier College of Education, Kumbakonam, Thanjavur St. Xaviers College of Education, Tirunelveli St. Xaviers College of Education, Alangudi, Pudukottai Stanley College of Education, Pappireddipatti, Dharmapuri Star College of Education, Tiruchengode, Namakkal Star Lion College of Education, Papanasam, Thanjavur Stella Marys B.Ed. College, Sivagiri, Tirunelveli Stella Matutina College of Education, Chennai Sudharasan College of Education, Illuppur, Pudukottai Sun College of Education, Kanyakumari Suraj College of Education, Vandavasi, Tiruvanamalai Susila College of Education, Kallakurichi, Villupuram Swami Vivekananda College of Education, Perambalur Swaminathan Saraswathi College of Education for Women, Salem Swamy College of Education for Women, Salem Swamy Vivekananda College, Vallam, Thanjavur T.D.T.A.D.S. Daniel Rajammal College of Education for Women, Tenkasi, Tirunelveli T.K. Raja College of Education, Tirupattur, Vellore T.S.M. College of Education, Kallakurichi, Villupuram T.V.M. College of Education, Tiruvallur Terasa College of Education, Illuppur, Pudukottai Thalapathy College of Education, Dharmapuri Thavathiru Kundrakudi Adigalar College of Education for Women, Thiruppathur, Sivagangai The Kavery College of Education, Mettur, Salem The Kavery College of Education for Women, Mettur, Salem The Tamil University College of Education, Thanjavur Thellar College of Education, Vandavasi, Tiruvanamalai Thiravium College of Education, Theni Thirumal College of Education, Tiruppattur, Vellore Thirumalai Srinivasa College of Education, Trichy U.S.P. College of Education, Tenkasi, Tirunelveli Udaya College of Education, Kanyakumari Uma Maheswaranar College of Education, Thanjavur Universal College of Education, Tirunelveli V. Venkatasamy Naidu College of Physical Education, Sivakasi, Virudhunagar V.E.T. College of Education, Villupuram V.E.T. College of Education, Tirunelveli V.O. Chidambaram College of Education, Tuticorin V.O.C. College of Education, Tuticorin V.P. Muthaiah P. Meenakshi Ammal College of Education (Women), Srivilliputtur, Virudhunagar V.S. Isaac College of Education, Arakkonam, Vellore V.S. Isaac College of Education, Arakkonam, Vellore Vaani College of Education, Vaniyambadi, Vellore Vailankanni College of Education, Chennai Vandayar College of Education, Thanjavur Varruvan Vadivelen College of Education, Dharmapuri Vasavi College of Education, Erode Vekkaliamman College of Education, Tittakudi, Cuddalore Vekkaliamman College of Education, Trichy Vel College of Education, Palani, Dindigul Vellalar College of Education, Erode Veludayar College of Education, Thiruvarur, Tiruvarur Venkatesvara College of Education, Pudukottai Vestly College of Education, Aranthangi, Pudukottai Vettri Vel College of Education, Salem Vickram College of Teacher Education, Enathi, Sivagangai Victory College of Education, Dindigul Vidhya Vikas Plus The Institute of Education, Veppanthatti, Perambalur Vidhyaa Vikas College of Education, Tiruchengode, Namakkal Vidhyalaya College of Education, Tiruvannamalai, Tiruvanamalai Vidya Sagar Womens College of Education, Chengalpet, Kanchipuram Vignesh College of Education, Tiruvannamalai, Tiruvanamalai Vijay College of Education, Tiruvannamalai, Tiruvanamalai Vinayaga College of Education, Chennai Vinayaka Missions Annapoorna College of Education, Salem Virudhunagar M.S.P. Nadar College of Education, Virudhunagar Vishnu Lakshmi B.Ed. College, Dharapuram, Erode Vishwa Bharathi College of Education, Harur, Dharmapuri Vishwaksena College of Education, Tiruvallur Vivekananda College of Education, Sivagangai Vivekananda Vidyalaya College of Education, Arakkonam, Vellore Vivekanandha College of Education, Neyveli, Cuddalore Vivekanandha College of Education for Women, Tiruchengode, Namakkal Vivekanandha College of Physical Education for Women, Tiruchengode, Namakkal Vysya College of Education, Salem White Memorial College of Education, Kanyakumari Wisdom College of Education, Cheyyar, Tiruvanamalai Y.M.C.A. College of Physical Education, Chennai
+
+Tiruvalluvar University
+
+Adhiparasakthi College of Science, Vellore Arakkonam Arts and Science College, Arakkonam, Vellore Arcot Sri Mahalakshmi Women's College, Vellore Aries Arts and Science College for Women, Cuddalore Arignar Anna Govt. Arts College, Cheyyar, Tiruvanamalai Arignar Anna Govt. Arts College, Villupuram Arignar Anna Govt. Arts College for Women, Walajapet, Vellore Arun Krishna College of Arts and Science, Tiruvannamalai, Tiruvanamalai Auxilium College, Katpadi, Vellore B. Padmanabhan Jayanthimala Arts and Science College, Cuddalore Bharathi Arts and Science College, Villupuram C. Abdul Hakkim College, Vellore C. Kandasamy Naidu College for Women, Cudalore, Cuddalore Danapackiyam Krishnasamy Mudaliar College for Women, Vellore Dr. M.G.R. Chockalingam Arts College, Tiruvannamalai, Tiruvanamalai Dr. R.K. Shanmugam College of Arts and Science, Villupuram Govt. Arts College, Thiruvannamalai, Tiruvanamalai Govt. Arts College, Chidambaram, Cuddalore Govt. Thirumagal Mills College, Vellore Idaya College of Arts and Science for Women, Tiruvannamalai, Tiruvanamalai Immaculate College for Women, Villupuram Indian Arts and Science College, Tiruvannamalai, Tiruvanamalai Indira Gandhi Jayanthi Women's College, Villupuram Indo-American College, Tiruvannamalai, Tiruvanamalai Islamiah College, Vellore Islamiah Women's Arts and Science College, Vellore Jawahar Science College, Neyveli, Cuddalore Joseph Arts and Science College, Villupuram Jothi College, Vellore K.M.G. College of Arts and Science, Vellore K.S. Raja College of Arts and Science for Women, Villupuram Kamban College Arts and Science for Women, Tiruvannamalai, Tiruvanamalai Kaveripakkam Arts and Science College, Kaveripakkam, Vellore King Nandivarman College of Arts and Science, Tiruvannamalai, Tiruvanamalai Krishnasamy College of Science, Arts and Management for Women, Cuddalore M.M.E.S. Women's Arts and Science College, Vellore Marrapan Lakshmiamma Arts and Science College for Women, Vellore Marudhur Kesari Jain College for Women, Vellore Mazharul Uloom College, Vellore Mercury College of Arts and Science, Vellore Muthurangam Government Arts College, Vellore Periyar Arts College, Cuddalore R.T.G. Arts and Science College for Women, Villupuram Rajeswari Arts and Scinece College for Women, Villupuram S.B.A. College of Science and Management, Tiruvannamalai, Tiruvanamalai S.S.S. College Art, Science and Management, Vellore Sacred Heart College, Tirupattur, Vellore Shri Aravindar Arts and Science College, Villupuram Shri Raghavendra Arts and Science College, Chidambaram, Cuddalore Shunmuga Industries Arts and Science College, Tirvuvannamalai, Tiruvanamalai Siga College of Management and Computer Science, Villupuram Sri Akilandeswari Women's College, Tiruvannamalai, Tiruvanamalai Sri Arumugam Arts and Science College, Cuddalore Sri Bharathi Women's Arts and Science College, Tiruvannamalai, Tiruvanamalai Sri Bharathivelu Arts and Science College, Vellore Sri Thangam Periyasamy Arts and Science College, Cuddalore Sri Vinayaga College of Arts and Science, Villupuram Srimath Sivagnana Balaya Swamigal Tamil College, Villupuram St. Joseph College of Arts and Science, Cuddalore Theivanai Ammal College for Women, Villupuram Thiru Govindasamy Government Arts College, Villupuram Thiru Kolanjiappar Government Arts College, Virudhachalam, Cuddalore Thirupattur Arts And Science College, Thirupattur, Vellore Thiruvalluvar Arts and Science College, Cuddalore Tirukkovilur College of Arts and Science, Villupuram Voorhees College, Vellore
+
+University of Madras
+
+A.A. Arts and Science College (Women), Chennai A.M. Jain College (Men), Chennai Alpha Arts and Science College, Chennai Anna Adarsh College for Women, Chennai Annai Theresa College of Arts and Science, Kanchipuram Annai Veilankanni's College of Arts and Science, Chennai Annai Violet Arts and Science College, Chennai Apollo Arts and Science College, Kanchipuram Asan Memorial College of Arts and Science, Chennai Bharathi's Women's College, Chennai C. Kandasami Naidu College for Men, Chennai C.S.I. Edward Women's Christian College, Kanchipuram C.T.M. College of Arts and Science, Chennai Chellammal Women's College of the Pachaiyappa's Trust, Chennai Chennai National College (Arts and Science), Chennai Chevaliar T. Thomas Elizabeth College for Women, Chennai Dhanraj Baid Jain College (Autonomous), Chennai Dharmamurthi Rao Bahadur Calavala Cunnan Chetty's Hindu (D.R.B.C.C.C.H.) College, Chennai Dr. Ambedkar Government Arts College, Chennai Dr. M.G.R. Janaki College of Arts and Science for Women, Chennai Dr. Sir A.L. Mudaliar Vocational Arts and Science, Tiruvallur Dwaraka Doss Goverdhan Doss Vaishnav College, Chennai Ethiraj College for Women (Autonomous), Chennai Govt. Arts College for Men (Autonomous), Chennai Guru Nanak College, Chennai Guru Shree Shanti Vijai Jain College for Women, Chennai Hindustan College of Arts and Science, Chennai Indian Harvard Arts and Science College, Chennai J.A. Arts and Science College, Chennai Jaya College of Arts and Science, Tiruvallur Jayagovind Harigopal Agarwal Agarsen College, Chennai John Bosco Arts and Science College, Tiruvallur Justice Basheer Ahmed Syed College for Women, Chennai K.C.S. Kasi Nadar College of Arts and Science, Chennai Kanchi Kamatchi Amman Arts and Science College for Women, Kanchipuram Kanchi Shri Krishna College of Arts and Science, Kanchipuram Kumara Rani Meena Muthiah College of Arts and Science for Women, Chennai Loganatha Narayanasamy Govt. Arts College, Tiruvallur Loyola College (Autonomous), Chennai M.O.P. Vaishnav College for Women (Autonomous), Chennai Madha Arts and Science College, Chennai Madras Christian College (Autonomous), Chennai Mahalakshmi College of Arts and Science, Chennai Mar Gregorios Arts and Science College, Chennai Meenakshi Ammal Arts and Science College for Women, Kanchipuram Meenakshi College for Women, Chennai Mohamed Sathak College of Arts and Science, Chennai Nazareth College of Arts and Science, Chennai New College (Autonomous), Chennai New Prince Shri Bhavani Arts and Science College, Chennai Pachaiyappa's College, Chennai Pachaiyappa's College for Men, Kanchipuram Pachaiyappa's College for Women, Kanchipuram Patrician College of Arts and Science, Chennai Pattammal Alagesan College of Arts and Science, Kanchipuram Poonga College of Arts and Science, Chennai Presidency College (Autonomous), Chennai Prince Shri Venkateshwara Arts and Science College, Chennai Prof. Dhanapalan College for Women, Chennai Quaid-e-Millet College, Chennai Quaid-e-Millet Government Arts College for Women (Autonomous), Chennai Queen Mary's College (Autonomous), Chennai R.B. Gothi Jain College for Women, Chennai Rajeswari Vedachalam Government Arts College, Kanchipuram Ramakrishna Mission Vivekananda College (Men), Chennai S.D.N. Bhatt Vaishnav College for Women, Chennai S.I.V.E.T. College, Chennai S.R.M. Arts and Science College, Chennai Shri Chandra Prabhu Jain College for Men, Tiruvallur Shri Shankarlal Sundarbai Shasun Jain College for Women, Chennai Sindhi College of Arts and Science, Chennai Sir Theagaraya College, Chennai Soka Ikeda Arts and Science College for Women, Chennai Sri Kanniga Parameswari Arts and Science College for Women, Chennai Sri Muthukumaran Arts and Science College, Chennai, Kanchipuram Sri Muthukumarasamy College, Chennai Sri Sankara Arts and Science College, Kanchipuram Sri Subramaniaswami Government Arts College, Tiruvallur Sridevi Arts and Science College, Tiruvallur Sriram College of Arts and Science, Tiruvallur St. Joseph's College (Arts and Science), Chennai St. Louis College for the Deaf, Chennai St. Thomas College of Arts and Science, Chennai Stella Maris College for Women (Autonomous), Chennai T.M.G. College of Arts and Science, Chennai T.S. Narayanasamy College of Arts and Science, Chennai Tagore College of Arts and Science, Chennai Tamilnadu Arts and Science College, Chennai Thirumurugan College of Arts and Science, Thiruvallur, Chennai Thiruthangal Nadar College, Chennai Vailakanni Malathy Pannicker College of Arts and Science, Chennai Valliammal College for Women, Chennai Vel Sri Ranga Sanku College, Chennai Vidhya Sagar Women's College, Chengalpattu, Kanchipuram Women's Christian College (Autonomous), Chennai
